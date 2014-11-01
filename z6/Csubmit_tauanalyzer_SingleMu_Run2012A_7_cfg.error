@@ -1,0 +1,340 @@
+28-Oct-2014 12:07:25 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_8_1_V7c.root
+28-Oct-2014 12:07:26 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_8_1_V7c.root
+Begin processing the 1st record. Run 190688, Event 16567983, LumiSection 87 at 28-Oct-2014 12:07:35.169 PDT
+28-Oct-2014 12:07:38 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_8_1_V7c.root
+28-Oct-2014 12:07:38 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_90_1_R4T.root
+28-Oct-2014 12:07:38 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_90_1_R4T.root
+28-Oct-2014 12:07:53 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_90_1_R4T.root
+28-Oct-2014 12:07:53 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_91_1_tWL.root
+28-Oct-2014 12:07:53 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_91_1_tWL.root
+28-Oct-2014 12:08:00 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_91_1_tWL.root
+28-Oct-2014 12:08:00 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_92_1_JxJ.root
+28-Oct-2014 12:08:00 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_92_1_JxJ.root
+28-Oct-2014 12:08:07 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_92_1_JxJ.root
+28-Oct-2014 12:08:07 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_93_1_gPo.root
+28-Oct-2014 12:08:07 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_93_1_gPo.root
+Begin processing the 1001st record. Run 191247, Event 750528660, LumiSection 550 at 28-Oct-2014 12:08:14.633 PDT
+28-Oct-2014 12:08:15 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_93_1_gPo.root
+28-Oct-2014 12:08:15 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_94_1_CWg.root
+28-Oct-2014 12:08:15 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_94_1_CWg.root
+28-Oct-2014 12:08:24 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_94_1_CWg.root
+28-Oct-2014 12:08:24 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_95_1_6uI.root
+28-Oct-2014 12:08:24 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_95_1_6uI.root
+28-Oct-2014 12:08:33 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_95_1_6uI.root
+28-Oct-2014 12:08:33 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_96_1_irL.root
+28-Oct-2014 12:08:33 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_96_1_irL.root
+Begin processing the 2001st record. Run 191720, Event 76006705, LumiSection 79 at 28-Oct-2014 12:09:37.202 PDT
+28-Oct-2014 12:09:37 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_96_1_irL.root
+28-Oct-2014 12:09:37 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_97_1_zjh.root
+28-Oct-2014 12:09:37 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_97_1_zjh.root
+28-Oct-2014 12:09:48 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_97_1_zjh.root
+28-Oct-2014 12:09:48 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_98_1_BhU.root
+28-Oct-2014 12:09:48 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_98_1_BhU.root
+28-Oct-2014 12:09:57 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_98_1_BhU.root
+28-Oct-2014 12:09:57 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_99_1_TVo.root
+28-Oct-2014 12:09:57 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_99_1_TVo.root
+Begin processing the 3001st record. Run 191277, Event 516802570, LumiSection 572 at 28-Oct-2014 12:10:06.696 PDT
+28-Oct-2014 12:10:07 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_99_1_TVo.root
+28-Oct-2014 12:10:07 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_9_1_ohO.root
+28-Oct-2014 12:10:07 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_9_1_ohO.root
+28-Oct-2014 12:11:09 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_9_1_ohO.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 3329 passed = 4 failed = 3325
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0       3329          2       3327          0 highMT
+TrigReport     1    1       3329          2       3327          0 lowMT
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: highMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0       3329         96       3233          0 muHadIsoTauSelector
+TrigReport     1    0         96         83         13          0 IsoBVetoFilter
+TrigReport     1    0         83         83          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    0         83         83          0          0 muonTriggerObjectFilter
+TrigReport     1    0         83          7         76          0 OSSFFilterIso
+TrigReport     1    0          7          4          3          0 SSSFFilterIso
+TrigReport     1    0          4          2          2          0 highMTFilter
+TrigReport     1    0          2          2          0          0 highMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Modules in Path: lowMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1       3329         96       3233          0 muHadIsoTauSelector
+TrigReport     1    1         96         83         13          0 IsoBVetoFilter
+TrigReport     1    1         83         83          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    1         83         83          0          0 muonTriggerObjectFilter
+TrigReport     1    1         83          7         76          0 OSSFFilterIso
+TrigReport     1    1          7          4          3          0 SSSFFilterIso
+TrigReport     1    1          4          2          2          0 lowMTFilter
+TrigReport     1    1          2          2          0          0 lowMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport       6658       3329         96       3233          0 muHadIsoTauSelector
+TrigReport        192         96         83         13          0 IsoBVetoFilter
+TrigReport        166         83         83          0          0 corrJetDistinctIsoTauSelector
+TrigReport        166         83         83          0          0 muonTriggerObjectFilter
+TrigReport        166         83          7         76          0 OSSFFilterIso
+TrigReport         14          7          4          3          0 SSSFFilterIso
+TrigReport          4          4          2          2          0 highMTFilter
+TrigReport          2          2          2          0          0 highMTMuHadIsoTauAnalyzer
+TrigReport          4          4          2          2          0 lowMTFilter
+TrigReport          2          2          2          0          0 lowMTMuHadIsoTauAnalyzer
+TrigReport       3329       3329       3329          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.003267 Real/event = 0.016452
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.003103   0.016259   0.003103   0.016259 highMT
+TimeReport   0.000097   0.000133   0.000097   0.000133 lowMT
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: highMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.002512   0.015096   0.002512   0.015096 muHadIsoTauSelector
+TimeReport   0.000148   0.000427   0.005124   0.014822 IsoBVetoFilter
+TimeReport   0.000055   0.000072   0.002205   0.002906 corrJetDistinctIsoTauSelector
+TimeReport   0.000086   0.000192   0.003457   0.007705 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000048   0.000043 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000015 SSSFFilterIso
+TimeReport   0.000035   0.000041   0.028746   0.034245 highMTFilter
+TimeReport   0.000260   0.000424   0.433434   0.706008 highMTMuHadIsoTauAnalyzer
+
+TimeReport ---------- Modules in Path: lowMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000001   0.000000   0.000001   0.000000 muHadIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000000 IsoBVetoFilter
+TimeReport   0.000000   0.000000   0.000000   0.000001 corrJetDistinctIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000000 muonTriggerObjectFilter
+TimeReport   0.000000   0.000000   0.000000   0.000000 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000000 SSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000058 lowMTFilter
+TimeReport   0.000095   0.000131   0.157476   0.217791 lowMTMuHadIsoTauAnalyzer
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.002513   0.015097   0.002513   0.015097   0.001256   0.007548 muHadIsoTauSelector
+TimeReport   0.000148   0.000427   0.005124   0.014822   0.002562   0.007411 IsoBVetoFilter
+TimeReport   0.000055   0.000072   0.002205   0.002906   0.001102   0.001453 corrJetDistinctIsoTauSelector
+TimeReport   0.000086   0.000192   0.003457   0.007706   0.001729   0.003853 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000048   0.000044   0.000024   0.000022 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000016   0.000000   0.000008 SSSFFilterIso
+TimeReport   0.000035   0.000041   0.028746   0.034245   0.028746   0.034245 highMTFilter
+TimeReport   0.000260   0.000424   0.433434   0.706008   0.433434   0.706008 highMTMuHadIsoTauAnalyzer
+TimeReport   0.000000   0.000000   0.000000   0.000058   0.000000   0.000058 lowMTFilter
+TimeReport   0.000095   0.000131   0.157476   0.217791   0.157476   0.217791 lowMTMuHadIsoTauAnalyzer
+TimeReport   0.000055   0.000050   0.000055   0.000050   0.000055   0.000050 TriggerResults
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                            12       12
+    2 fileAction           -s file_open                             24       24
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostProcessEvent PostProcessEvent PostEndRun
+    2 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                 36                  36
+28-Oct-2014 12:11:29 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_8_1_V7c.root
+28-Oct-2014 12:11:31 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_8_1_V7c.root
+Begin processing the 1st record. Run 190688, Event 16567983, LumiSection 87 at 28-Oct-2014 12:11:40.186 PDT
+28-Oct-2014 12:11:43 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_8_1_V7c.root
+28-Oct-2014 12:11:43 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_90_1_R4T.root
+28-Oct-2014 12:11:43 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_90_1_R4T.root
+28-Oct-2014 12:11:50 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_90_1_R4T.root
+28-Oct-2014 12:11:50 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_91_1_tWL.root
+28-Oct-2014 12:11:50 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_91_1_tWL.root
+28-Oct-2014 12:11:58 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_91_1_tWL.root
+28-Oct-2014 12:11:58 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_92_1_JxJ.root
+28-Oct-2014 12:11:58 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_92_1_JxJ.root
+28-Oct-2014 12:12:05 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_92_1_JxJ.root
+28-Oct-2014 12:12:05 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_93_1_gPo.root
+28-Oct-2014 12:12:05 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_93_1_gPo.root
+Begin processing the 1001st record. Run 191247, Event 750528660, LumiSection 550 at 28-Oct-2014 12:12:11.253 PDT
+28-Oct-2014 12:12:13 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_93_1_gPo.root
+28-Oct-2014 12:12:13 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_94_1_CWg.root
+28-Oct-2014 12:12:13 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_94_1_CWg.root
+28-Oct-2014 12:12:21 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_94_1_CWg.root
+28-Oct-2014 12:12:21 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_95_1_6uI.root
+28-Oct-2014 12:12:21 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_95_1_6uI.root
+28-Oct-2014 12:12:31 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_95_1_6uI.root
+28-Oct-2014 12:12:31 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_96_1_irL.root
+28-Oct-2014 12:12:31 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_96_1_irL.root
+Begin processing the 2001st record. Run 191720, Event 76006705, LumiSection 79 at 28-Oct-2014 12:12:40.788 PDT
+28-Oct-2014 12:12:41 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_96_1_irL.root
+28-Oct-2014 12:12:41 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_97_1_zjh.root
+28-Oct-2014 12:12:41 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_97_1_zjh.root
+28-Oct-2014 12:12:51 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_97_1_zjh.root
+28-Oct-2014 12:12:51 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_98_1_BhU.root
+28-Oct-2014 12:12:51 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_98_1_BhU.root
+28-Oct-2014 12:13:01 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_98_1_BhU.root
+28-Oct-2014 12:13:01 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_99_1_TVo.root
+28-Oct-2014 12:13:01 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_99_1_TVo.root
+Begin processing the 3001st record. Run 191277, Event 516802570, LumiSection 572 at 28-Oct-2014 12:13:10.558 PDT
+28-Oct-2014 12:13:11 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_99_1_TVo.root
+28-Oct-2014 12:13:11 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_9_1_ohO.root
+28-Oct-2014 12:13:11 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_9_1_ohO.root
+28-Oct-2014 12:14:42 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012A-22Jan2013-v1_AOD_skim_v3/data_no_selection_9_1_ohO.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 3329 passed = 9 failed = 3320
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0       3329          8       3321          0 highMT
+TrigReport     1    1       3329          1       3328          0 lowMT
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: highMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0       3329        214       3115          0 muHadNonIsoTauSelector
+TrigReport     1    0        214        141         73          0 NonIsoBVetoFilter
+TrigReport     1    0        141        141          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport     1    0        141        134          7          0 muonTriggerObjectFilter
+TrigReport     1    0        134         14        120          0 OSSFFilterNonIso
+TrigReport     1    0         14          9          5          0 SSSFFilterNonIso
+TrigReport     1    0          9          8          1          0 highMTFilter
+TrigReport     1    0          8          8          0          0 highMTMuHadNonIsoTauAnalyzer
+
+TrigReport ---------- Modules in Path: lowMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1       3329        214       3115          0 muHadNonIsoTauSelector
+TrigReport     1    1        214        141         73          0 NonIsoBVetoFilter
+TrigReport     1    1        141        141          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport     1    1        141        134          7          0 muonTriggerObjectFilter
+TrigReport     1    1        134         14        120          0 OSSFFilterNonIso
+TrigReport     1    1         14          9          5          0 SSSFFilterNonIso
+TrigReport     1    1          9          1          8          0 lowMTFilter
+TrigReport     1    1          1          1          0          0 lowMTMuHadNonIsoTauAnalyzer
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport       6658       3329        214       3115          0 muHadNonIsoTauSelector
+TrigReport        428        214        141         73          0 NonIsoBVetoFilter
+TrigReport        282        141        141          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport        282        141        134          7          0 muonTriggerObjectFilter
+TrigReport        268        134         14        120          0 OSSFFilterNonIso
+TrigReport         28         14          9          5          0 SSSFFilterNonIso
+TrigReport          9          9          8          1          0 highMTFilter
+TrigReport          8          8          8          0          0 highMTMuHadNonIsoTauAnalyzer
+TrigReport          9          9          1          8          0 lowMTFilter
+TrigReport          1          1          1          0          0 lowMTMuHadNonIsoTauAnalyzer
+TrigReport       3329       3329       3329          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.003731 Real/event = 0.012464
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.003652   0.012379   0.003652   0.012379 highMT
+TimeReport   0.000015   0.000027   0.000015   0.000027 lowMT
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: highMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.002471   0.008600   0.002471   0.008600 muHadNonIsoTauSelector
+TimeReport   0.000319   0.002053   0.004957   0.031939 NonIsoBVetoFilter
+TimeReport   0.000063   0.000144   0.001496   0.003410 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000126   0.000296   0.002985   0.006996 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000030   0.000036 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000000   0.000014 SSSFFilterNonIso
+TimeReport   0.000037   0.000117   0.013664   0.043285 highMTFilter
+TimeReport   0.000630   0.001162   0.261960   0.483473 highMTMuHadNonIsoTauAnalyzer
+
+TimeReport ---------- Modules in Path: lowMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000001   0.000000   0.000001   0.000000 muHadNonIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000001 NonIsoBVetoFilter
+TimeReport   0.000000   0.000000   0.000000   0.000001 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000000 muonTriggerObjectFilter
+TimeReport   0.000000   0.000000   0.000000   0.000001 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000000   0.000000 SSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000000   0.000077 lowMTFilter
+TimeReport   0.000013   0.000025   0.041994   0.082545 lowMTMuHadNonIsoTauAnalyzer
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.002471   0.008601   0.002471   0.008601   0.001236   0.004300 muHadNonIsoTauSelector
+TimeReport   0.000319   0.002053   0.004957   0.031939   0.002479   0.015970 NonIsoBVetoFilter
+TimeReport   0.000063   0.000144   0.001496   0.003410   0.000748   0.001705 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000126   0.000296   0.002985   0.006996   0.001493   0.003498 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000030   0.000037   0.000015   0.000018 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000000   0.000015   0.000000   0.000007 SSSFFilterNonIso
+TimeReport   0.000037   0.000117   0.013664   0.043285   0.013664   0.043285 highMTFilter
+TimeReport   0.000630   0.001162   0.261960   0.483473   0.261960   0.483473 highMTMuHadNonIsoTauAnalyzer
+TimeReport   0.000000   0.000000   0.000000   0.000077   0.000000   0.000077 lowMTFilter
+TimeReport   0.000013   0.000025   0.041994   0.082545   0.041994   0.082545 lowMTMuHadNonIsoTauAnalyzer
+TimeReport   0.000053   0.000048   0.000053   0.000048   0.000053   0.000048 TriggerResults
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                            12       12
+    2 fileAction           -s file_open                             24       24
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostProcessEvent PostProcessEvent PostEndRun
+    2 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                 36                  36

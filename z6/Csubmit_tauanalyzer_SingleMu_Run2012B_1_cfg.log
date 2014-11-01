@@ -1,0 +1,49 @@
+000 (878253.000.000) 10/28 12:02:22 Job submitted from host: <128.120.80.20:33339>
+...
+007 (878253.000.000) 10/28 12:02:23 Shadow exception!
+	Error from slot1@c1-1.cms.tier3.ucdavis.edu: Failed to open '/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/z6/Csubmit_tauanalyzer_SingleMu_Run2012B_1_cfg.out' as standard output: No such file or directory (errno 2)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (878253.000.000) 10/28 12:02:23 Job was held.
+	Error from slot1@c1-1.cms.tier3.ucdavis.edu: Failed to open '/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/z6/Csubmit_tauanalyzer_SingleMu_Run2012B_1_cfg.out' as standard output: No such file or directory (errno 2)
+	Code 7 Subcode 2
+...
+009 (878253.000.000) 10/28 12:06:40 Job was aborted by the user.
+	via condor_rm (by user kmtos)
+...
+000 (878303.000.000) 10/28 12:06:49 Job submitted from host: <128.120.80.20:33339>
+...
+001 (878303.000.000) 10/28 12:06:57 Job executing on host: <10.8.255.8:37901>
+...
+006 (878303.000.000) 10/28 12:07:06 Image size of job updated: 288676
+	158  -  MemoryUsage of job (MB)
+	161156  -  ResidentSetSize of job (KB)
+...
+006 (878303.000.000) 10/28 12:12:07 Image size of job updated: 784764
+	558  -  MemoryUsage of job (MB)
+	570624  -  ResidentSetSize of job (KB)
+...
+006 (878303.000.000) 10/28 12:32:09 Image size of job updated: 786044
+	558  -  MemoryUsage of job (MB)
+	570624  -  ResidentSetSize of job (KB)
+...
+006 (878303.000.000) 10/28 12:33:53 Image size of job updated: 795516
+	558  -  MemoryUsage of job (MB)
+	570624  -  ResidentSetSize of job (KB)
+...
+005 (878303.000.000) 10/28 12:33:53 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:13:53, Sys 0 00:00:51  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:13:53, Sys 0 00:00:51  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :        1        1          
+	   Memory (MB)          :      558      558          
+...

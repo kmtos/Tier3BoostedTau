@@ -1,0 +1,358 @@
+28-Oct-2014 12:07:22 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_osz.root
+28-Oct-2014 12:07:23 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_osz.root
+Begin processing the 1st record. Run 1, Event 10991, LumiSection 37 at 28-Oct-2014 12:07:31.194 PDT
+28-Oct-2014 12:07:48 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_osz.root
+28-Oct-2014 12:07:48 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_iCr.root
+28-Oct-2014 12:07:48 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_iCr.root
+28-Oct-2014 12:08:08 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_iCr.root
+28-Oct-2014 12:08:08 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_zsv.root
+28-Oct-2014 12:08:08 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_zsv.root
+28-Oct-2014 12:08:28 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_zsv.root
+28-Oct-2014 12:08:28 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_o4R.root
+28-Oct-2014 12:08:28 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_o4R.root
+28-Oct-2014 12:08:48 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_o4R.root
+28-Oct-2014 12:08:48 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_xfa.root
+28-Oct-2014 12:08:48 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_xfa.root
+Begin processing the 1001st record. Run 1, Event 243533, LumiSection 812 at 28-Oct-2014 12:09:02.382 PDT
+28-Oct-2014 12:09:10 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_xfa.root
+28-Oct-2014 12:09:10 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_xqp.root
+28-Oct-2014 12:09:10 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_xqp.root
+28-Oct-2014 12:09:18 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_xqp.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 1151 passed = 1151 failed = 0
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0       1151       1151          0          0 begin
+TrigReport     1    1       1151          2       1149          0 highMT
+TrigReport     1    2       1151          0       1151          0 lowMT
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: begin ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0       1151       1151          0          0 genWMuNuSelector
+TrigReport     1    0       1151       1151          0          0 genWTauNuSelector
+TrigReport     1    0       1151       1151          0          0 genPartonSelector
+TrigReport     1    0       1151       1151          0          0 genMuSelector
+TrigReport     1    0       1151       1151          0          0 genTauMuSelector
+
+TrigReport ---------- Modules in Path: highMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1       1151         30       1121          0 muHadIsoTauSelector
+TrigReport     1    1         30          7         23          0 IsoBVetoFilter
+TrigReport     1    1          7          7          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    1          7          7          0          0 muonTriggerObjectFilter
+TrigReport     1    1          7          3          4          0 OSSFFilterIso
+TrigReport     1    1          3          2          1          0 SSSFFilterIso
+TrigReport     1    1          2          2          0          0 highMTFilter
+TrigReport     1    1          2          2          0          0 highMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Modules in Path: lowMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    2       1151         30       1121          0 muHadIsoTauSelector
+TrigReport     1    2         30          7         23          0 IsoBVetoFilter
+TrigReport     1    2          7          7          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    2          7          7          0          0 muonTriggerObjectFilter
+TrigReport     1    2          7          3          4          0 OSSFFilterIso
+TrigReport     1    2          3          2          1          0 SSSFFilterIso
+TrigReport     1    2          2          0          2          0 lowMTFilter
+TrigReport     1    2          0          0          0          0 lowMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport       1151       1151       1151          0          0 genWMuNuSelector
+TrigReport       1151       1151       1151          0          0 genWTauNuSelector
+TrigReport       1151       1151       1151          0          0 genPartonSelector
+TrigReport       1151       1151       1151          0          0 genMuSelector
+TrigReport       1151       1151       1151          0          0 genTauMuSelector
+TrigReport       2302       1151         30       1121          0 muHadIsoTauSelector
+TrigReport         60         30          7         23          0 IsoBVetoFilter
+TrigReport         14          7          7          0          0 corrJetDistinctIsoTauSelector
+TrigReport         14          7          7          0          0 muonTriggerObjectFilter
+TrigReport         14          7          3          4          0 OSSFFilterIso
+TrigReport          6          3          2          1          0 SSSFFilterIso
+TrigReport          2          2          2          0          0 highMTFilter
+TrigReport          2          2          2          0          0 highMTMuHadIsoTauAnalyzer
+TrigReport          2          2          0          2          0 lowMTFilter
+TrigReport          0          0          0          0          0 lowMTMuHadIsoTauAnalyzer
+TrigReport       1151       1151       1151          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.059385 Real/event = 0.061881
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.056087   0.058376   0.056087   0.058376 begin
+TimeReport   0.003223   0.003436   0.003223   0.003436 highMT
+TimeReport   0.000003   0.000002   0.000003   0.000002 lowMT
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: begin ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.019814   0.021991   0.019814   0.021991 genWMuNuSelector
+TimeReport   0.017862   0.017895   0.017862   0.017895 genWTauNuSelector
+TimeReport   0.000065   0.000066   0.000065   0.000066 genPartonSelector
+TimeReport   0.000223   0.000232   0.000223   0.000232 genMuSelector
+TimeReport   0.018107   0.018183   0.018107   0.018183 genTauMuSelector
+
+TimeReport ---------- Modules in Path: highMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.002145   0.002156   0.002145   0.002156 muHadIsoTauSelector
+TimeReport   0.000150   0.000241   0.005766   0.009235 IsoBVetoFilter
+TimeReport   0.000073   0.000089   0.011998   0.014554 corrJetDistinctIsoTauSelector
+TimeReport   0.000036   0.000058   0.005999   0.009507 muonTriggerObjectFilter
+TimeReport   0.000000   0.000001   0.000000   0.000117 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000017 SSSFFilterIso
+TimeReport   0.000081   0.000085   0.046493   0.048832 highMTFilter
+TimeReport   0.000730   0.000804   0.419936   0.462426 highMTMuHadIsoTauAnalyzer
+
+TimeReport ---------- Modules in Path: lowMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000000   0.000000   0.000000   0.000000 muHadIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000001 IsoBVetoFilter
+TimeReport   0.000000   0.000000   0.000000   0.000001 corrJetDistinctIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000001 muonTriggerObjectFilter
+TimeReport   0.000000   0.000000   0.000000   0.000001 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000000 SSSFFilterIso
+TimeReport   0.000001   0.000000   0.000500   0.000082 lowMTFilter
+TimeReport   0.000000   0.000000   0.000000   0.000000 lowMTMuHadIsoTauAnalyzer
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.019814   0.021991   0.019814   0.021991   0.019814   0.021991 genWMuNuSelector
+TimeReport   0.017862   0.017895   0.017862   0.017895   0.017862   0.017895 genWTauNuSelector
+TimeReport   0.000065   0.000066   0.000065   0.000066   0.000065   0.000066 genPartonSelector
+TimeReport   0.000223   0.000232   0.000223   0.000232   0.000223   0.000232 genMuSelector
+TimeReport   0.018107   0.018183   0.018107   0.018183   0.018107   0.018183 genTauMuSelector
+TimeReport   0.002145   0.002156   0.002145   0.002156   0.001072   0.001078 muHadIsoTauSelector
+TimeReport   0.000150   0.000241   0.005766   0.009236   0.002883   0.004618 IsoBVetoFilter
+TimeReport   0.000073   0.000089   0.011998   0.014555   0.005999   0.007277 corrJetDistinctIsoTauSelector
+TimeReport   0.000036   0.000058   0.005999   0.009508   0.003000   0.004754 muonTriggerObjectFilter
+TimeReport   0.000000   0.000001   0.000000   0.000117   0.000000   0.000059 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000017   0.000000   0.000008 SSSFFilterIso
+TimeReport   0.000081   0.000085   0.046493   0.048832   0.046493   0.048832 highMTFilter
+TimeReport   0.000730   0.000804   0.419936   0.462426   0.419936   0.462426 highMTMuHadIsoTauAnalyzer
+TimeReport   0.000001   0.000000   0.000500   0.000082   0.000500   0.000082 lowMTFilter
+TimeReport   0.000000   0.000000   0.000000   0.000000   0.000000   0.000000 lowMTMuHadIsoTauAnalyzer
+TimeReport   0.000056   0.000052   0.000056   0.000052   0.000056   0.000052 TriggerResults
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             6        6
+    2 fileAction           -s file_open                             12       12
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostBeginLumi    PostProcessEvent PostEndRun
+    2 fileAction           pre-events       pre-events       PostBeginLumi
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                 18                  18
+28-Oct-2014 12:09:35 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_osz.root
+28-Oct-2014 12:09:37 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_osz.root
+Begin processing the 1st record. Run 1, Event 10991, LumiSection 37 at 28-Oct-2014 12:09:45.112 PDT
+28-Oct-2014 12:10:00 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_osz.root
+28-Oct-2014 12:10:00 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_iCr.root
+28-Oct-2014 12:10:00 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_iCr.root
+28-Oct-2014 12:10:20 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_iCr.root
+28-Oct-2014 12:10:20 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_zsv.root
+28-Oct-2014 12:10:20 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_zsv.root
+28-Oct-2014 12:10:39 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_zsv.root
+28-Oct-2014 12:10:39 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_o4R.root
+28-Oct-2014 12:10:39 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_o4R.root
+28-Oct-2014 12:10:59 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_o4R.root
+28-Oct-2014 12:10:59 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_xfa.root
+28-Oct-2014 12:10:59 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_xfa.root
+Begin processing the 1001st record. Run 1, Event 243533, LumiSection 812 at 28-Oct-2014 12:11:13.629 PDT
+28-Oct-2014 12:11:21 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_xfa.root
+28-Oct-2014 12:11:21 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_xqp.root
+28-Oct-2014 12:11:21 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_xqp.root
+28-Oct-2014 12:11:29 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/T_s-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_xqp.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 1151 passed = 1151 failed = 0
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0       1151       1151          0          0 begin
+TrigReport     1    1       1151          7       1144          0 highMT
+TrigReport     1    2       1151          2       1149          0 lowMT
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: begin ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0       1151       1151          0          0 genWMuNuSelector
+TrigReport     1    0       1151       1151          0          0 genWTauNuSelector
+TrigReport     1    0       1151       1151          0          0 genPartonSelector
+TrigReport     1    0       1151       1151          0          0 genMuSelector
+TrigReport     1    0       1151       1151          0          0 genTauMuSelector
+
+TrigReport ---------- Modules in Path: highMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1       1151        131       1020          0 muHadNonIsoTauSelector
+TrigReport     1    1        131         34         97          0 NonIsoBVetoFilter
+TrigReport     1    1         34         34          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport     1    1         34         34          0          0 muonTriggerObjectFilter
+TrigReport     1    1         34         13         21          0 OSSFFilterNonIso
+TrigReport     1    1         13          9          4          0 SSSFFilterNonIso
+TrigReport     1    1          9          7          2          0 highMTFilter
+TrigReport     1    1          7          7          0          0 highMTMuHadNonIsoTauAnalyzer
+
+TrigReport ---------- Modules in Path: lowMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    2       1151        131       1020          0 muHadNonIsoTauSelector
+TrigReport     1    2        131         34         97          0 NonIsoBVetoFilter
+TrigReport     1    2         34         34          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport     1    2         34         34          0          0 muonTriggerObjectFilter
+TrigReport     1    2         34         13         21          0 OSSFFilterNonIso
+TrigReport     1    2         13          9          4          0 SSSFFilterNonIso
+TrigReport     1    2          9          2          7          0 lowMTFilter
+TrigReport     1    2          2          2          0          0 lowMTMuHadNonIsoTauAnalyzer
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport       1151       1151       1151          0          0 genWMuNuSelector
+TrigReport       1151       1151       1151          0          0 genWTauNuSelector
+TrigReport       1151       1151       1151          0          0 genPartonSelector
+TrigReport       1151       1151       1151          0          0 genMuSelector
+TrigReport       1151       1151       1151          0          0 genTauMuSelector
+TrigReport       2302       1151        131       1020          0 muHadNonIsoTauSelector
+TrigReport        262        131         34         97          0 NonIsoBVetoFilter
+TrigReport         68         34         34          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport         68         34         34          0          0 muonTriggerObjectFilter
+TrigReport         68         34         13         21          0 OSSFFilterNonIso
+TrigReport         26         13          9          4          0 SSSFFilterNonIso
+TrigReport          9          9          7          2          0 highMTFilter
+TrigReport          7          7          7          0          0 highMTMuHadNonIsoTauAnalyzer
+TrigReport          9          9          2          7          0 lowMTFilter
+TrigReport          2          2          2          0          0 lowMTMuHadNonIsoTauAnalyzer
+TrigReport       1151       1151       1151          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.057223 Real/event = 0.059276
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.053551   0.055478   0.053551   0.055478 begin
+TimeReport   0.002929   0.003031   0.002929   0.003031 highMT
+TimeReport   0.000678   0.000701   0.000678   0.000701 lowMT
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: begin ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.018895   0.020686   0.018895   0.020686 genWMuNuSelector
+TimeReport   0.017134   0.017213   0.017134   0.017213 genWTauNuSelector
+TimeReport   0.000070   0.000065   0.000070   0.000065 genPartonSelector
+TimeReport   0.000241   0.000233   0.000241   0.000233 genMuSelector
+TimeReport   0.017196   0.017271   0.017196   0.017271 genTauMuSelector
+
+TimeReport ---------- Modules in Path: highMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.002100   0.002136   0.002100   0.002136 muHadNonIsoTauSelector
+TimeReport   0.000239   0.000236   0.002099   0.002074 NonIsoBVetoFilter
+TimeReport   0.000095   0.000121   0.003205   0.004110 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000127   0.000165   0.004293   0.005582 muonTriggerObjectFilter
+TimeReport   0.000003   0.000001   0.000088   0.000045 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000000   0.000013 SSSFFilterNonIso
+TimeReport   0.000081   0.000082   0.010332   0.010487 highMTFilter
+TimeReport   0.000281   0.000285   0.046279   0.046795 highMTMuHadNonIsoTauAnalyzer
+
+TimeReport ---------- Modules in Path: lowMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000001   0.000000   0.000001   0.000000 muHadNonIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000000 NonIsoBVetoFilter
+TimeReport   0.000000   0.000000   0.000000   0.000000 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000000 muonTriggerObjectFilter
+TimeReport   0.000000   0.000000   0.000000   0.000000 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000000   0.000001 SSSFFilterNonIso
+TimeReport   0.000001   0.000000   0.000111   0.000056 lowMTFilter
+TimeReport   0.000674   0.000698   0.387941   0.401986 lowMTMuHadNonIsoTauAnalyzer
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.018895   0.020686   0.018895   0.020686   0.018895   0.020686 genWMuNuSelector
+TimeReport   0.017134   0.017213   0.017134   0.017213   0.017134   0.017213 genWTauNuSelector
+TimeReport   0.000070   0.000065   0.000070   0.000065   0.000070   0.000065 genPartonSelector
+TimeReport   0.000241   0.000233   0.000241   0.000233   0.000241   0.000233 genMuSelector
+TimeReport   0.017196   0.017271   0.017196   0.017271   0.017196   0.017271 genTauMuSelector
+TimeReport   0.002101   0.002137   0.002101   0.002137   0.001051   0.001068 muHadNonIsoTauSelector
+TimeReport   0.000239   0.000236   0.002099   0.002074   0.001049   0.001037 NonIsoBVetoFilter
+TimeReport   0.000095   0.000121   0.003205   0.004111   0.001603   0.002055 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000127   0.000165   0.004293   0.005582   0.002147   0.002791 muonTriggerObjectFilter
+TimeReport   0.000003   0.000001   0.000088   0.000045   0.000044   0.000022 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000000   0.000013   0.000000   0.000007 SSSFFilterNonIso
+TimeReport   0.000081   0.000082   0.010332   0.010487   0.010332   0.010487 highMTFilter
+TimeReport   0.000281   0.000285   0.046279   0.046795   0.046279   0.046795 highMTMuHadNonIsoTauAnalyzer
+TimeReport   0.000001   0.000000   0.000111   0.000056   0.000111   0.000056 lowMTFilter
+TimeReport   0.000674   0.000698   0.387941   0.401986   0.387941   0.401986 lowMTMuHadNonIsoTauAnalyzer
+TimeReport   0.000050   0.000052   0.000050   0.000052   0.000050   0.000052 TriggerResults
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             6        6
+    2 fileAction           -s file_open                             12       12
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostBeginLumi    PostProcessEvent PostEndRun
+    2 fileAction           pre-events       pre-events       PostBeginLumi
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                 18                  18

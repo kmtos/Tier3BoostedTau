@@ -1,0 +1,6 @@
+Universe   = vanilla
+Executable = tauanalyzer_W1JetsToLNu_cfg.sh
+Log        = Csubmit_tauanalyzer_W1JetsToLNu_cfg.log
+Output     = Csubmit_tauanalyzer_W1JetsToLNu_cfg.out
+Error      = Csubmit_tauanalyzer_W1JetsToLNu_cfg.error
+Queue

@@ -1,0 +1,51 @@
+000 (878369.000.000) 10/30 10:29:12 Job submitted from host: <128.120.80.20:33339>
+...
+001 (878369.000.000) 10/30 10:29:29 Job executing on host: <10.8.255.21:38963>
+...
+006 (878369.000.000) 10/30 10:29:38 Image size of job updated: 11332
+	2  -  MemoryUsage of job (MB)
+	1136  -  ResidentSetSize of job (KB)
+...
+006 (878369.000.000) 10/30 10:34:39 Image size of job updated: 722704
+	499  -  MemoryUsage of job (MB)
+	510816  -  ResidentSetSize of job (KB)
+...
+006 (878369.000.000) 10/30 10:39:40 Image size of job updated: 759824
+	534  -  MemoryUsage of job (MB)
+	546204  -  ResidentSetSize of job (KB)
+...
+006 (878369.000.000) 10/30 10:44:40 Image size of job updated: 796944
+	537  -  MemoryUsage of job (MB)
+	549700  -  ResidentSetSize of job (KB)
+...
+006 (878369.000.000) 10/30 10:49:41 Image size of job updated: 797968
+	548  -  MemoryUsage of job (MB)
+	560456  -  ResidentSetSize of job (KB)
+...
+006 (878369.000.000) 10/30 10:54:42 Image size of job updated: 806928
+	548  -  MemoryUsage of job (MB)
+	560456  -  ResidentSetSize of job (KB)
+...
+006 (878369.000.000) 10/30 10:59:42 Image size of job updated: 806928
+	560  -  MemoryUsage of job (MB)
+	573092  -  ResidentSetSize of job (KB)
+...
+006 (878369.000.000) 10/30 11:04:42 Image size of job updated: 806928
+	562  -  MemoryUsage of job (MB)
+	575200  -  ResidentSetSize of job (KB)
+...
+005 (878369.000.000) 10/30 11:12:11 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:21:26, Sys 0 00:01:37  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:21:26, Sys 0 00:01:37  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :        1        1          
+	   Memory (MB)          :      562      562          
+...

@@ -1,0 +1,65 @@
+000 (878273.000.000) 10/28 12:02:28 Job submitted from host: <128.120.80.20:33339>
+...
+001 (878273.000.000) 10/28 12:02:44 Job executing on host: <10.8.255.6:37183>
+...
+006 (878273.000.000) 10/28 12:02:53 Image size of job updated: 1
+	2  -  MemoryUsage of job (MB)
+	1660  -  ResidentSetSize of job (KB)
+...
+006 (878273.000.000) 10/28 12:06:43 Image size of job updated: 779640
+	2  -  MemoryUsage of job (MB)
+	1660  -  ResidentSetSize of job (KB)
+...
+004 (878273.000.000) 10/28 12:06:43 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:02:21, Sys 0 00:00:10  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :        1        1          
+	   Memory (MB)          :        2        2          
+...
+009 (878273.000.000) 10/28 12:06:44 Job was aborted by the user.
+	via condor_rm (by user kmtos)
+...
+000 (878323.000.000) 10/28 12:06:52 Job submitted from host: <128.120.80.20:33339>
+...
+001 (878323.000.000) 10/28 12:06:59 Job executing on host: <10.8.255.26:44412>
+...
+006 (878323.000.000) 10/28 12:07:08 Image size of job updated: 219252
+	103  -  MemoryUsage of job (MB)
+	105052  -  ResidentSetSize of job (KB)
+...
+006 (878323.000.000) 10/28 12:12:09 Image size of job updated: 781660
+	551  -  MemoryUsage of job (MB)
+	563464  -  ResidentSetSize of job (KB)
+...
+006 (878323.000.000) 10/28 12:17:09 Image size of job updated: 802652
+	573  -  MemoryUsage of job (MB)
+	585768  -  ResidentSetSize of job (KB)
+...
+006 (878323.000.000) 10/28 12:22:09 Image size of job updated: 804700
+	573  -  MemoryUsage of job (MB)
+	585768  -  ResidentSetSize of job (KB)
+...
+006 (878323.000.000) 10/28 12:27:10 Image size of job updated: 809308
+	573  -  MemoryUsage of job (MB)
+	585768  -  ResidentSetSize of job (KB)
+...
+005 (878323.000.000) 10/28 12:46:36 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:19:55, Sys 0 00:01:20  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:19:55, Sys 0 00:01:20  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :        1        1          
+	   Memory (MB)          :      573      573          
+...

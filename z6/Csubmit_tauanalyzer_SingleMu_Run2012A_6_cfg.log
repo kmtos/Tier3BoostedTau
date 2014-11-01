@@ -1,0 +1,45 @@
+000 (878250.000.000) 10/28 12:02:22 Job submitted from host: <128.120.80.20:33339>
+...
+007 (878250.000.000) 10/28 12:02:22 Shadow exception!
+	Error from slot3@c1-1.cms.tier3.ucdavis.edu: Failed to open '/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/z6/Csubmit_tauanalyzer_SingleMu_Run2012A_6_cfg.out' as standard output: No such file or directory (errno 2)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (878250.000.000) 10/28 12:02:22 Job was held.
+	Error from slot3@c1-1.cms.tier3.ucdavis.edu: Failed to open '/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/z6/Csubmit_tauanalyzer_SingleMu_Run2012A_6_cfg.out' as standard output: No such file or directory (errno 2)
+	Code 7 Subcode 2
+...
+009 (878250.000.000) 10/28 12:06:40 Job was aborted by the user.
+	via condor_rm (by user kmtos)
+...
+000 (878300.000.000) 10/28 12:06:48 Job submitted from host: <128.120.80.20:33339>
+...
+001 (878300.000.000) 10/28 12:06:57 Job executing on host: <10.8.255.6:37183>
+...
+006 (878300.000.000) 10/28 12:07:05 Image size of job updated: 116696
+	38  -  MemoryUsage of job (MB)
+	37924  -  ResidentSetSize of job (KB)
+...
+006 (878300.000.000) 10/28 12:12:05 Image size of job updated: 747384
+	459  -  MemoryUsage of job (MB)
+	469168  -  ResidentSetSize of job (KB)
+...
+006 (878300.000.000) 10/28 12:15:36 Image size of job updated: 774008
+	459  -  MemoryUsage of job (MB)
+	469168  -  ResidentSetSize of job (KB)
+...
+005 (878300.000.000) 10/28 12:15:36 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:04:19, Sys 0 00:00:15  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:04:19, Sys 0 00:00:15  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :        1        1          
+	   Memory (MB)          :      459      459          
+...

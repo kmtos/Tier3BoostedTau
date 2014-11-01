@@ -1,0 +1,568 @@
+28-Oct-2014 12:07:22 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_10_1_zod.root
+28-Oct-2014 12:07:23 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_10_1_zod.root
+Begin processing the 1st record. Run 1, Event 1283100, LumiSection 4278 at 28-Oct-2014 12:07:31.908 PDT
+28-Oct-2014 12:07:43 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_10_1_zod.root
+28-Oct-2014 12:07:43 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_11_1_F86.root
+28-Oct-2014 12:07:43 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_11_1_F86.root
+28-Oct-2014 12:08:02 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_11_1_F86.root
+28-Oct-2014 12:08:02 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_12_1_qSU.root
+28-Oct-2014 12:08:02 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_12_1_qSU.root
+28-Oct-2014 12:08:20 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_12_1_qSU.root
+28-Oct-2014 12:08:20 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_13_1_LrU.root
+28-Oct-2014 12:08:20 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_13_1_LrU.root
+28-Oct-2014 12:08:37 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_13_1_LrU.root
+28-Oct-2014 12:08:37 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_14_1_3A6.root
+28-Oct-2014 12:08:38 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_14_1_3A6.root
+28-Oct-2014 12:08:56 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_14_1_3A6.root
+28-Oct-2014 12:08:56 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_15_1_XeH.root
+28-Oct-2014 12:08:56 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_15_1_XeH.root
+Begin processing the 1001st record. Run 1, Event 461652, LumiSection 1539 at 28-Oct-2014 12:09:05.913 PDT
+28-Oct-2014 12:09:14 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_15_1_XeH.root
+28-Oct-2014 12:09:14 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_16_1_jC2.root
+28-Oct-2014 12:09:14 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_16_1_jC2.root
+28-Oct-2014 12:09:31 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_16_1_jC2.root
+28-Oct-2014 12:09:31 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_17_1_Il5.root
+28-Oct-2014 12:09:31 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_17_1_Il5.root
+28-Oct-2014 12:09:47 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_17_1_Il5.root
+28-Oct-2014 12:09:47 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_18_1_psB.root
+28-Oct-2014 12:09:47 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_18_1_psB.root
+28-Oct-2014 12:10:05 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_18_1_psB.root
+28-Oct-2014 12:10:05 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_19_1_Qd0.root
+28-Oct-2014 12:10:05 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_19_1_Qd0.root
+28-Oct-2014 12:10:20 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_19_1_Qd0.root
+28-Oct-2014 12:10:20 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_ujA.root
+28-Oct-2014 12:10:20 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_ujA.root
+28-Oct-2014 12:10:38 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_ujA.root
+28-Oct-2014 12:10:38 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_20_1_dS4.root
+28-Oct-2014 12:10:38 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_20_1_dS4.root
+Begin processing the 2001st record. Run 1, Event 1871594, LumiSection 6240 at 28-Oct-2014 12:10:45.758 PDT
+28-Oct-2014 12:10:57 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_20_1_dS4.root
+28-Oct-2014 12:10:57 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_21_1_MUT.root
+28-Oct-2014 12:10:57 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_21_1_MUT.root
+28-Oct-2014 12:11:16 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_21_1_MUT.root
+28-Oct-2014 12:11:16 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_22_1_Eue.root
+28-Oct-2014 12:11:16 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_22_1_Eue.root
+28-Oct-2014 12:12:35 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_22_1_Eue.root
+28-Oct-2014 12:12:35 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_23_1_nHB.root
+28-Oct-2014 12:12:35 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_23_1_nHB.root
+28-Oct-2014 12:12:53 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_23_1_nHB.root
+28-Oct-2014 12:12:53 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_24_1_Aut.root
+28-Oct-2014 12:12:53 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_24_1_Aut.root
+28-Oct-2014 12:13:11 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_24_1_Aut.root
+28-Oct-2014 12:13:11 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_25_1_i0x.root
+28-Oct-2014 12:13:11 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_25_1_i0x.root
+Begin processing the 3001st record. Run 1, Event 216442, LumiSection 722 at 28-Oct-2014 12:13:23.794 PDT
+28-Oct-2014 12:13:30 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_25_1_i0x.root
+28-Oct-2014 12:13:30 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_26_1_L0d.root
+28-Oct-2014 12:13:30 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_26_1_L0d.root
+28-Oct-2014 12:13:48 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_26_1_L0d.root
+28-Oct-2014 12:13:48 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_27_1_IAp.root
+28-Oct-2014 12:13:48 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_27_1_IAp.root
+28-Oct-2014 12:14:06 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_27_1_IAp.root
+28-Oct-2014 12:14:06 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_28_1_hI2.root
+28-Oct-2014 12:14:06 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_28_1_hI2.root
+28-Oct-2014 12:14:22 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_28_1_hI2.root
+28-Oct-2014 12:14:22 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_29_1_Uau.root
+28-Oct-2014 12:14:22 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_29_1_Uau.root
+28-Oct-2014 12:14:39 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_29_1_Uau.root
+28-Oct-2014 12:14:39 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_rEx.root
+28-Oct-2014 12:14:39 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_rEx.root
+Begin processing the 4001st record. Run 1, Event 1819370, LumiSection 6066 at 28-Oct-2014 12:14:56.600 PDT
+28-Oct-2014 12:14:58 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_rEx.root
+28-Oct-2014 12:14:58 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_30_1_FWY.root
+28-Oct-2014 12:14:58 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_30_1_FWY.root
+28-Oct-2014 12:15:15 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_30_1_FWY.root
+28-Oct-2014 12:15:15 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_31_1_fF7.root
+28-Oct-2014 12:15:15 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_31_1_fF7.root
+28-Oct-2014 12:15:32 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_31_1_fF7.root
+28-Oct-2014 12:15:32 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_32_1_KCb.root
+28-Oct-2014 12:15:32 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_32_1_KCb.root
+28-Oct-2014 12:15:50 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_32_1_KCb.root
+28-Oct-2014 12:15:50 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_33_1_9k4.root
+28-Oct-2014 12:15:51 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_33_1_9k4.root
+28-Oct-2014 12:16:08 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_33_1_9k4.root
+28-Oct-2014 12:16:08 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_34_1_ScX.root
+28-Oct-2014 12:16:08 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_34_1_ScX.root
+28-Oct-2014 12:16:28 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_34_1_ScX.root
+28-Oct-2014 12:16:28 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_35_1_EPP.root
+28-Oct-2014 12:16:28 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_35_1_EPP.root
+Begin processing the 5001st record. Run 1, Event 1749702, LumiSection 5834 at 28-Oct-2014 12:16:40.236 PDT
+28-Oct-2014 12:16:46 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_35_1_EPP.root
+28-Oct-2014 12:16:46 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_36_1_Qfw.root
+28-Oct-2014 12:16:46 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_36_1_Qfw.root
+28-Oct-2014 12:17:05 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_36_1_Qfw.root
+28-Oct-2014 12:17:05 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_37_1_RzM.root
+28-Oct-2014 12:17:05 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_37_1_RzM.root
+28-Oct-2014 12:17:23 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_37_1_RzM.root
+28-Oct-2014 12:17:23 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_38_1_Yb0.root
+28-Oct-2014 12:17:23 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_38_1_Yb0.root
+28-Oct-2014 12:17:42 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_38_1_Yb0.root
+28-Oct-2014 12:17:42 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_39_1_lZN.root
+28-Oct-2014 12:17:42 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_39_1_lZN.root
+28-Oct-2014 12:17:57 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_39_1_lZN.root
+28-Oct-2014 12:17:57 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_mT6.root
+28-Oct-2014 12:17:57 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_mT6.root
+28-Oct-2014 12:18:14 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_mT6.root
+28-Oct-2014 12:18:14 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_wp1.root
+28-Oct-2014 12:18:14 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_wp1.root
+Begin processing the 6001st record. Run 1, Event 1297918, LumiSection 4328 at 28-Oct-2014 12:18:24.312 PDT
+28-Oct-2014 12:18:30 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_wp1.root
+28-Oct-2014 12:18:30 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_clZ.root
+28-Oct-2014 12:18:31 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_clZ.root
+28-Oct-2014 12:18:49 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_clZ.root
+28-Oct-2014 12:18:49 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_VeI.root
+28-Oct-2014 12:18:49 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_VeI.root
+28-Oct-2014 12:19:09 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_VeI.root
+28-Oct-2014 12:19:09 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_7_1_zpQ.root
+28-Oct-2014 12:19:09 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_7_1_zpQ.root
+28-Oct-2014 12:19:28 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_7_1_zpQ.root
+28-Oct-2014 12:19:28 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_8_1_jPO.root
+28-Oct-2014 12:19:28 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_8_1_jPO.root
+28-Oct-2014 12:19:46 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_8_1_jPO.root
+28-Oct-2014 12:19:46 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_9_1_U0h.root
+28-Oct-2014 12:19:46 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_9_1_U0h.root
+Begin processing the 7001st record. Run 1, Event 1499385, LumiSection 4999 at 28-Oct-2014 12:20:04.231 PDT
+28-Oct-2014 12:20:06 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_9_1_U0h.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 7034 passed = 7034 failed = 0
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0       7034       7034          0          0 begin
+TrigReport     1    1       7034          9       7025          0 highMT
+TrigReport     1    2       7034          3       7031          0 lowMT
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: begin ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0       7034       7034          0          0 genWMuNuSelector
+TrigReport     1    0       7034       7034          0          0 genWTauNuSelector
+TrigReport     1    0       7034       7034          0          0 genPartonSelector
+TrigReport     1    0       7034       7034          0          0 genMuSelector
+TrigReport     1    0       7034       7034          0          0 genTauMuSelector
+
+TrigReport ---------- Modules in Path: highMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1       7034        268       6766          0 muHadIsoTauSelector
+TrigReport     1    1        268         71        197          0 IsoBVetoFilter
+TrigReport     1    1         71         71          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    1         71         71          0          0 muonTriggerObjectFilter
+TrigReport     1    1         71         22         49          0 OSSFFilterIso
+TrigReport     1    1         22         12         10          0 SSSFFilterIso
+TrigReport     1    1         12          9          3          0 highMTFilter
+TrigReport     1    1          9          9          0          0 highMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Modules in Path: lowMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    2       7034        268       6766          0 muHadIsoTauSelector
+TrigReport     1    2        268         71        197          0 IsoBVetoFilter
+TrigReport     1    2         71         71          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    2         71         71          0          0 muonTriggerObjectFilter
+TrigReport     1    2         71         22         49          0 OSSFFilterIso
+TrigReport     1    2         22         12         10          0 SSSFFilterIso
+TrigReport     1    2         12          3          9          0 lowMTFilter
+TrigReport     1    2          3          3          0          0 lowMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport       7034       7034       7034          0          0 genWMuNuSelector
+TrigReport       7034       7034       7034          0          0 genWTauNuSelector
+TrigReport       7034       7034       7034          0          0 genPartonSelector
+TrigReport       7034       7034       7034          0          0 genMuSelector
+TrigReport       7034       7034       7034          0          0 genTauMuSelector
+TrigReport      14068       7034        268       6766          0 muHadIsoTauSelector
+TrigReport        536        268         71        197          0 IsoBVetoFilter
+TrigReport        142         71         71          0          0 corrJetDistinctIsoTauSelector
+TrigReport        142         71         71          0          0 muonTriggerObjectFilter
+TrigReport        142         71         22         49          0 OSSFFilterIso
+TrigReport         44         22         12         10          0 SSSFFilterIso
+TrigReport         12         12          9          3          0 highMTFilter
+TrigReport          9          9          9          0          0 highMTMuHadIsoTauAnalyzer
+TrigReport         12         12          3          9          0 lowMTFilter
+TrigReport          3          3          3          0          0 lowMTMuHadIsoTauAnalyzer
+TrigReport       7034       7034       7034          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.056068 Real/event = 0.064328
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.053381   0.061188   0.053381   0.061188 begin
+TimeReport   0.002543   0.002956   0.002543   0.002956 highMT
+TimeReport   0.000076   0.000119   0.000076   0.000119 lowMT
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: begin ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.018976   0.026672   0.018976   0.026672 genWMuNuSelector
+TimeReport   0.017120   0.017175   0.017120   0.017175 genWTauNuSelector
+TimeReport   0.000066   0.000068   0.000066   0.000068 genPartonSelector
+TimeReport   0.000226   0.000224   0.000226   0.000224 genMuSelector
+TimeReport   0.016980   0.017040   0.016980   0.017040 genTauMuSelector
+
+TimeReport ---------- Modules in Path: highMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.002059   0.002074   0.002059   0.002074 muHadIsoTauSelector
+TimeReport   0.000162   0.000261   0.004261   0.006838 IsoBVetoFilter
+TimeReport   0.000024   0.000110   0.002352   0.010856 corrJetDistinctIsoTauSelector
+TimeReport   0.000060   0.000212   0.005915   0.021016 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000084   0.000055 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000016 SSSFFilterIso
+TimeReport   0.000018   0.000023   0.010499   0.013189 highMTFilter
+TimeReport   0.000214   0.000273   0.167419   0.213157 highMTMuHadIsoTauAnalyzer
+
+TimeReport ---------- Modules in Path: lowMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000001   0.000000   0.000001   0.000000 muHadIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000001 IsoBVetoFilter
+TimeReport   0.000000   0.000000   0.000000   0.000001 corrJetDistinctIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000001 muonTriggerObjectFilter
+TimeReport   0.000000   0.000000   0.000000   0.000001 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000001 SSSFFilterIso
+TimeReport   0.000000   0.000000   0.000083   0.000073 lowMTFilter
+TimeReport   0.000074   0.000117   0.172640   0.274309 lowMTMuHadIsoTauAnalyzer
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.018976   0.026672   0.018976   0.026672   0.018976   0.026672 genWMuNuSelector
+TimeReport   0.017120   0.017175   0.017120   0.017175   0.017120   0.017175 genWTauNuSelector
+TimeReport   0.000066   0.000068   0.000066   0.000068   0.000066   0.000068 genPartonSelector
+TimeReport   0.000226   0.000224   0.000226   0.000224   0.000226   0.000224 genMuSelector
+TimeReport   0.016980   0.017040   0.016980   0.017040   0.016980   0.017040 genTauMuSelector
+TimeReport   0.002060   0.002074   0.002060   0.002074   0.001030   0.001037 muHadIsoTauSelector
+TimeReport   0.000162   0.000261   0.004261   0.006838   0.002130   0.003419 IsoBVetoFilter
+TimeReport   0.000024   0.000110   0.002352   0.010857   0.001176   0.005428 corrJetDistinctIsoTauSelector
+TimeReport   0.000060   0.000212   0.005915   0.021017   0.002957   0.010508 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000084   0.000056   0.000042   0.000028 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000016   0.000000   0.000008 SSSFFilterIso
+TimeReport   0.000018   0.000023   0.010499   0.013189   0.010499   0.013189 highMTFilter
+TimeReport   0.000214   0.000273   0.167419   0.213157   0.167419   0.213157 highMTMuHadIsoTauAnalyzer
+TimeReport   0.000000   0.000000   0.000083   0.000073   0.000083   0.000073 lowMTFilter
+TimeReport   0.000074   0.000117   0.172640   0.274309   0.172640   0.274309 lowMTMuHadIsoTauAnalyzer
+TimeReport   0.000048   0.000051   0.000048   0.000051   0.000048   0.000051 TriggerResults
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                            39       39
+    2 fileAction           -s file_open                             78       78
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostProcessEvent PostBeginLumi    PostEndRun
+    2 fileAction           pre-events       pre-events       PostBeginLumi
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                117                 117
+28-Oct-2014 12:20:26 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_10_1_zod.root
+28-Oct-2014 12:20:27 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_10_1_zod.root
+Begin processing the 1st record. Run 1, Event 1283100, LumiSection 4278 at 28-Oct-2014 12:20:36.781 PDT
+28-Oct-2014 12:20:49 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_10_1_zod.root
+28-Oct-2014 12:20:49 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_11_1_F86.root
+28-Oct-2014 12:20:49 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_11_1_F86.root
+28-Oct-2014 12:21:08 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_11_1_F86.root
+28-Oct-2014 12:21:08 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_12_1_qSU.root
+28-Oct-2014 12:21:08 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_12_1_qSU.root
+28-Oct-2014 12:21:26 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_12_1_qSU.root
+28-Oct-2014 12:21:26 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_13_1_LrU.root
+28-Oct-2014 12:21:26 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_13_1_LrU.root
+28-Oct-2014 12:21:44 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_13_1_LrU.root
+28-Oct-2014 12:21:44 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_14_1_3A6.root
+28-Oct-2014 12:21:44 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_14_1_3A6.root
+28-Oct-2014 12:22:03 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_14_1_3A6.root
+28-Oct-2014 12:22:03 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_15_1_XeH.root
+28-Oct-2014 12:22:03 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_15_1_XeH.root
+Begin processing the 1001st record. Run 1, Event 461652, LumiSection 1539 at 28-Oct-2014 12:22:11.974 PDT
+28-Oct-2014 12:22:19 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_15_1_XeH.root
+28-Oct-2014 12:22:19 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_16_1_jC2.root
+28-Oct-2014 12:22:19 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_16_1_jC2.root
+28-Oct-2014 12:22:35 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_16_1_jC2.root
+28-Oct-2014 12:22:35 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_17_1_Il5.root
+28-Oct-2014 12:22:35 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_17_1_Il5.root
+28-Oct-2014 12:23:18 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_17_1_Il5.root
+28-Oct-2014 12:23:18 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_18_1_psB.root
+28-Oct-2014 12:23:18 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_18_1_psB.root
+28-Oct-2014 12:23:38 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_18_1_psB.root
+28-Oct-2014 12:23:38 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_19_1_Qd0.root
+28-Oct-2014 12:23:38 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_19_1_Qd0.root
+28-Oct-2014 12:23:54 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_19_1_Qd0.root
+28-Oct-2014 12:23:54 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_ujA.root
+28-Oct-2014 12:23:54 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_ujA.root
+28-Oct-2014 12:24:09 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_1_1_ujA.root
+28-Oct-2014 12:24:09 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_20_1_dS4.root
+28-Oct-2014 12:24:10 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_20_1_dS4.root
+Begin processing the 2001st record. Run 1, Event 1871594, LumiSection 6240 at 28-Oct-2014 12:24:18.573 PDT
+28-Oct-2014 12:24:30 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_20_1_dS4.root
+28-Oct-2014 12:24:30 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_21_1_MUT.root
+28-Oct-2014 12:24:31 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_21_1_MUT.root
+28-Oct-2014 12:25:01 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_21_1_MUT.root
+28-Oct-2014 12:25:01 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_22_1_Eue.root
+28-Oct-2014 12:25:01 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_22_1_Eue.root
+28-Oct-2014 12:25:20 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_22_1_Eue.root
+28-Oct-2014 12:25:20 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_23_1_nHB.root
+28-Oct-2014 12:25:20 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_23_1_nHB.root
+28-Oct-2014 12:25:39 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_23_1_nHB.root
+28-Oct-2014 12:25:39 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_24_1_Aut.root
+28-Oct-2014 12:25:40 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_24_1_Aut.root
+28-Oct-2014 12:25:58 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_24_1_Aut.root
+28-Oct-2014 12:25:58 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_25_1_i0x.root
+28-Oct-2014 12:25:58 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_25_1_i0x.root
+Begin processing the 3001st record. Run 1, Event 216442, LumiSection 722 at 28-Oct-2014 12:26:10.701 PDT
+28-Oct-2014 12:26:17 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_25_1_i0x.root
+28-Oct-2014 12:26:17 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_26_1_L0d.root
+28-Oct-2014 12:26:17 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_26_1_L0d.root
+28-Oct-2014 12:26:35 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_26_1_L0d.root
+28-Oct-2014 12:26:35 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_27_1_IAp.root
+28-Oct-2014 12:26:35 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_27_1_IAp.root
+28-Oct-2014 12:26:55 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_27_1_IAp.root
+28-Oct-2014 12:26:55 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_28_1_hI2.root
+28-Oct-2014 12:26:55 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_28_1_hI2.root
+28-Oct-2014 12:27:11 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_28_1_hI2.root
+28-Oct-2014 12:27:11 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_29_1_Uau.root
+28-Oct-2014 12:27:11 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_29_1_Uau.root
+28-Oct-2014 12:27:28 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_29_1_Uau.root
+28-Oct-2014 12:27:28 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_rEx.root
+28-Oct-2014 12:27:28 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_rEx.root
+Begin processing the 4001st record. Run 1, Event 1819370, LumiSection 6066 at 28-Oct-2014 12:27:46.278 PDT
+28-Oct-2014 12:27:47 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_2_1_rEx.root
+28-Oct-2014 12:27:47 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_30_1_FWY.root
+28-Oct-2014 12:27:48 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_30_1_FWY.root
+28-Oct-2014 12:28:06 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_30_1_FWY.root
+28-Oct-2014 12:28:06 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_31_1_fF7.root
+28-Oct-2014 12:28:06 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_31_1_fF7.root
+28-Oct-2014 12:28:25 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_31_1_fF7.root
+28-Oct-2014 12:28:25 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_32_1_KCb.root
+28-Oct-2014 12:28:25 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_32_1_KCb.root
+28-Oct-2014 12:28:43 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_32_1_KCb.root
+28-Oct-2014 12:28:43 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_33_1_9k4.root
+28-Oct-2014 12:28:44 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_33_1_9k4.root
+28-Oct-2014 12:29:03 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_33_1_9k4.root
+28-Oct-2014 12:29:03 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_34_1_ScX.root
+28-Oct-2014 12:29:03 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_34_1_ScX.root
+28-Oct-2014 12:29:21 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_34_1_ScX.root
+28-Oct-2014 12:29:21 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_35_1_EPP.root
+28-Oct-2014 12:29:21 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_35_1_EPP.root
+Begin processing the 5001st record. Run 1, Event 1749702, LumiSection 5834 at 28-Oct-2014 12:29:33.304 PDT
+28-Oct-2014 12:29:39 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_35_1_EPP.root
+28-Oct-2014 12:29:39 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_36_1_Qfw.root
+28-Oct-2014 12:29:39 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_36_1_Qfw.root
+28-Oct-2014 12:29:57 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_36_1_Qfw.root
+28-Oct-2014 12:29:57 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_37_1_RzM.root
+28-Oct-2014 12:29:57 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_37_1_RzM.root
+28-Oct-2014 12:30:15 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_37_1_RzM.root
+28-Oct-2014 12:30:15 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_38_1_Yb0.root
+28-Oct-2014 12:30:15 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_38_1_Yb0.root
+28-Oct-2014 12:30:34 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_38_1_Yb0.root
+28-Oct-2014 12:30:34 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_39_1_lZN.root
+28-Oct-2014 12:30:34 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_39_1_lZN.root
+28-Oct-2014 12:30:48 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_39_1_lZN.root
+28-Oct-2014 12:30:48 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_mT6.root
+28-Oct-2014 12:30:49 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_mT6.root
+28-Oct-2014 12:31:06 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_3_1_mT6.root
+28-Oct-2014 12:31:06 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_wp1.root
+28-Oct-2014 12:31:06 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_wp1.root
+Begin processing the 6001st record. Run 1, Event 1297918, LumiSection 4328 at 28-Oct-2014 12:31:16.696 PDT
+28-Oct-2014 12:31:22 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_4_1_wp1.root
+28-Oct-2014 12:31:22 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_clZ.root
+28-Oct-2014 12:31:22 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_clZ.root
+28-Oct-2014 12:31:39 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_5_1_clZ.root
+28-Oct-2014 12:31:39 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_VeI.root
+28-Oct-2014 12:31:39 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_VeI.root
+28-Oct-2014 12:31:57 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_6_1_VeI.root
+28-Oct-2014 12:31:57 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_7_1_zpQ.root
+28-Oct-2014 12:31:57 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_7_1_zpQ.root
+28-Oct-2014 12:32:16 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_7_1_zpQ.root
+28-Oct-2014 12:32:16 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_8_1_jPO.root
+28-Oct-2014 12:32:16 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_8_1_jPO.root
+28-Oct-2014 12:32:36 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_8_1_jPO.root
+28-Oct-2014 12:32:36 PDT  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_9_1_U0h.root
+28-Oct-2014 12:32:36 PDT  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_9_1_U0h.root
+Begin processing the 7001st record. Run 1, Event 1499385, LumiSection 4999 at 28-Oct-2014 12:32:55.019 PDT
+28-Oct-2014 12:32:57 PDT  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/Tbar_t-channel_TuneZ2star_8TeV-powheg-tauola-Summer12_DR53X-PU_S10_START53_V7A-v1-AODSIM_skim_v3/data_no_selection_9_1_U0h.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 7034 passed = 7034 failed = 0
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0       7034       7034          0          0 begin
+TrigReport     1    1       7034         57       6977          0 highMT
+TrigReport     1    2       7034         15       7019          0 lowMT
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: begin ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0       7034       7034          0          0 genWMuNuSelector
+TrigReport     1    0       7034       7034          0          0 genWTauNuSelector
+TrigReport     1    0       7034       7034          0          0 genPartonSelector
+TrigReport     1    0       7034       7034          0          0 genMuSelector
+TrigReport     1    0       7034       7034          0          0 genTauMuSelector
+
+TrigReport ---------- Modules in Path: highMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1       7034       1082       5952          0 muHadNonIsoTauSelector
+TrigReport     1    1       1082        298        784          0 NonIsoBVetoFilter
+TrigReport     1    1        298        298          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport     1    1        298        295          3          0 muonTriggerObjectFilter
+TrigReport     1    1        295         99        196          0 OSSFFilterNonIso
+TrigReport     1    1         99         72         27          0 SSSFFilterNonIso
+TrigReport     1    1         72         57         15          0 highMTFilter
+TrigReport     1    1         57         57          0          0 highMTMuHadNonIsoTauAnalyzer
+
+TrigReport ---------- Modules in Path: lowMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    2       7034       1082       5952          0 muHadNonIsoTauSelector
+TrigReport     1    2       1082        298        784          0 NonIsoBVetoFilter
+TrigReport     1    2        298        298          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport     1    2        298        295          3          0 muonTriggerObjectFilter
+TrigReport     1    2        295         99        196          0 OSSFFilterNonIso
+TrigReport     1    2         99         72         27          0 SSSFFilterNonIso
+TrigReport     1    2         72         15         57          0 lowMTFilter
+TrigReport     1    2         15         15          0          0 lowMTMuHadNonIsoTauAnalyzer
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport       7034       7034       7034          0          0 genWMuNuSelector
+TrigReport       7034       7034       7034          0          0 genWTauNuSelector
+TrigReport       7034       7034       7034          0          0 genPartonSelector
+TrigReport       7034       7034       7034          0          0 genMuSelector
+TrigReport       7034       7034       7034          0          0 genTauMuSelector
+TrigReport      14068       7034       1082       5952          0 muHadNonIsoTauSelector
+TrigReport       2164       1082        298        784          0 NonIsoBVetoFilter
+TrigReport        596        298        298          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport        596        298        295          3          0 muonTriggerObjectFilter
+TrigReport        590        295         99        196          0 OSSFFilterNonIso
+TrigReport        198         99         72         27          0 SSSFFilterNonIso
+TrigReport         72         72         57         15          0 highMTFilter
+TrigReport         57         57         57          0          0 highMTMuHadNonIsoTauAnalyzer
+TrigReport         72         72         15         57          0 lowMTFilter
+TrigReport         15         15         15          0          0 lowMTMuHadNonIsoTauAnalyzer
+TrigReport       7034       7034       7034          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.055083 Real/event = 0.061571
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.051524   0.056643   0.051524   0.056643 begin
+TimeReport   0.003275   0.004475   0.003275   0.004475 highMT
+TimeReport   0.000209   0.000388   0.000209   0.000388 lowMT
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: begin ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.018323   0.023359   0.018323   0.023359 genWMuNuSelector
+TimeReport   0.016450   0.016486   0.016450   0.016486 genWTauNuSelector
+TimeReport   0.000059   0.000062   0.000059   0.000062 genPartonSelector
+TimeReport   0.000219   0.000222   0.000219   0.000222 genMuSelector
+TimeReport   0.016459   0.016505   0.016459   0.016505 genTauMuSelector
+
+TimeReport ---------- Modules in Path: highMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.002032   0.002035   0.002032   0.002035 muHadNonIsoTauSelector
+TimeReport   0.000252   0.000254   0.001637   0.001651 NonIsoBVetoFilter
+TimeReport   0.000054   0.000107   0.001282   0.002519 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000146   0.000281   0.003436   0.006639 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000030   0.000032 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000020   0.000012 SSSFFilterNonIso
+TimeReport   0.000034   0.000083   0.003333   0.008137 highMTFilter
+TimeReport   0.000749   0.001709   0.092389   0.210929 highMTMuHadNonIsoTauAnalyzer
+
+TimeReport ---------- Modules in Path: lowMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000001   0.000000   0.000001   0.000000 muHadNonIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000000 NonIsoBVetoFilter
+TimeReport   0.000000   0.000000   0.000000   0.000000 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000000 muonTriggerObjectFilter
+TimeReport   0.000000   0.000000   0.000000   0.000000 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000000   0.000000 SSSFFilterNonIso
+TimeReport   0.000001   0.000001   0.000111   0.000067 lowMTFilter
+TimeReport   0.000205   0.000385   0.096319   0.180703 lowMTMuHadNonIsoTauAnalyzer
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.018323   0.023359   0.018323   0.023359   0.018323   0.023359 genWMuNuSelector
+TimeReport   0.016450   0.016486   0.016450   0.016486   0.016450   0.016486 genWTauNuSelector
+TimeReport   0.000059   0.000062   0.000059   0.000062   0.000059   0.000062 genPartonSelector
+TimeReport   0.000219   0.000222   0.000219   0.000222   0.000219   0.000222 genMuSelector
+TimeReport   0.016459   0.016505   0.016459   0.016505   0.016459   0.016505 genTauMuSelector
+TimeReport   0.002032   0.002036   0.002032   0.002036   0.001016   0.001018 muHadNonIsoTauSelector
+TimeReport   0.000252   0.000254   0.001637   0.001651   0.000818   0.000826 NonIsoBVetoFilter
+TimeReport   0.000054   0.000107   0.001282   0.002519   0.000641   0.001260 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000146   0.000281   0.003436   0.006640   0.001718   0.003320 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000030   0.000033   0.000015   0.000016 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000020   0.000012   0.000010   0.000006 SSSFFilterNonIso
+TimeReport   0.000034   0.000083   0.003333   0.008137   0.003333   0.008137 highMTFilter
+TimeReport   0.000749   0.001709   0.092389   0.210929   0.092389   0.210929 highMTMuHadNonIsoTauAnalyzer
+TimeReport   0.000001   0.000001   0.000111   0.000067   0.000111   0.000067 lowMTFilter
+TimeReport   0.000205   0.000385   0.096319   0.180703   0.096319   0.180703 lowMTMuHadNonIsoTauAnalyzer
+TimeReport   0.000055   0.000051   0.000055   0.000051   0.000055   0.000051 TriggerResults
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                            39       39
+    2 fileAction           -s file_open                             78       78
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostProcessEvent PostBeginLumi    PostEndRun
+    2 fileAction           pre-events       pre-events       PostBeginLumi
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                117                 117

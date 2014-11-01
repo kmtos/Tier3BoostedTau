@@ -1,0 +1,6 @@
+Universe   = vanilla
+Executable = tauanalyzer_nonIsoW_SingleMu_Run2012C_cfg.sh
+Log        = Csubmit_tauanalyzer_nonIsoW_SingleMu_Run2012C_cfg.log
+Output     = Csubmit_tauanalyzer_nonIsoW_SingleMu_Run2012C_cfg.out
+Error      = Csubmit_tauanalyzer_nonIsoW_SingleMu_Run2012C_cfg.error
+Queue

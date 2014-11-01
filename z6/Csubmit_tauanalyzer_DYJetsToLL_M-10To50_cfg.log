@@ -1,0 +1,57 @@
+000 (878242.000.000) 10/28 12:02:19 Job submitted from host: <128.120.80.20:33339>
+...
+007 (878242.000.000) 10/28 12:02:20 Shadow exception!
+	Error from slot1@c1-1.cms.tier3.ucdavis.edu: Failed to open '/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/z6/Csubmit_tauanalyzer_DYJetsToLL_M-10To50_cfg.out' as standard output: No such file or directory (errno 2)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (878242.000.000) 10/28 12:02:20 Job was held.
+	Error from slot1@c1-1.cms.tier3.ucdavis.edu: Failed to open '/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/z6/Csubmit_tauanalyzer_DYJetsToLL_M-10To50_cfg.out' as standard output: No such file or directory (errno 2)
+	Code 7 Subcode 2
+...
+009 (878242.000.000) 10/28 12:06:40 Job was aborted by the user.
+	via condor_rm (by user kmtos)
+...
+000 (878292.000.000) 10/28 12:06:46 Job submitted from host: <128.120.80.20:33339>
+...
+001 (878292.000.000) 10/28 12:06:56 Job executing on host: <10.8.254.1:36435>
+...
+006 (878292.000.000) 10/28 12:07:04 Image size of job updated: 226044
+	113  -  MemoryUsage of job (MB)
+	114760  -  ResidentSetSize of job (KB)
+...
+006 (878292.000.000) 10/28 12:12:04 Image size of job updated: 638168
+	412  -  MemoryUsage of job (MB)
+	421688  -  ResidentSetSize of job (KB)
+...
+006 (878292.000.000) 10/28 12:17:05 Image size of job updated: 653848
+	418  -  MemoryUsage of job (MB)
+	428008  -  ResidentSetSize of job (KB)
+...
+006 (878292.000.000) 10/28 12:22:06 Image size of job updated: 659736
+	423  -  MemoryUsage of job (MB)
+	432980  -  ResidentSetSize of job (KB)
+...
+006 (878292.000.000) 10/28 12:27:06 Image size of job updated: 664088
+	423  -  MemoryUsage of job (MB)
+	432980  -  ResidentSetSize of job (KB)
+...
+006 (878292.000.000) 10/28 12:45:03 Image size of job updated: 665620
+	423  -  MemoryUsage of job (MB)
+	432980  -  ResidentSetSize of job (KB)
+...
+005 (878292.000.000) 10/28 12:45:04 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:34:23, Sys 0 00:00:39  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:34:23, Sys 0 00:00:39  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :        1        1          
+	   Memory (MB)          :      423      423          
+...

@@ -1,0 +1,51 @@
+000 (878370.000.000) 10/30 10:29:12 Job submitted from host: <128.120.80.20:33339>
+...
+001 (878370.000.000) 10/30 10:29:29 Job executing on host: <10.8.255.21:38963>
+...
+006 (878370.000.000) 10/30 10:29:38 Image size of job updated: 11332
+	2  -  MemoryUsage of job (MB)
+	1136  -  ResidentSetSize of job (KB)
+...
+006 (878370.000.000) 10/30 10:34:39 Image size of job updated: 750092
+	504  -  MemoryUsage of job (MB)
+	515268  -  ResidentSetSize of job (KB)
+...
+006 (878370.000.000) 10/30 10:39:40 Image size of job updated: 753676
+	504  -  MemoryUsage of job (MB)
+	515268  -  ResidentSetSize of job (KB)
+...
+006 (878370.000.000) 10/30 10:44:40 Image size of job updated: 765964
+	515  -  MemoryUsage of job (MB)
+	526340  -  ResidentSetSize of job (KB)
+...
+006 (878370.000.000) 10/30 10:49:41 Image size of job updated: 765964
+	517  -  MemoryUsage of job (MB)
+	529216  -  ResidentSetSize of job (KB)
+...
+006 (878370.000.000) 10/30 10:54:42 Image size of job updated: 765964
+	531  -  MemoryUsage of job (MB)
+	543364  -  ResidentSetSize of job (KB)
+...
+006 (878370.000.000) 10/30 11:09:43 Image size of job updated: 772108
+	531  -  MemoryUsage of job (MB)
+	543364  -  ResidentSetSize of job (KB)
+...
+006 (878370.000.000) 10/30 11:14:43 Image size of job updated: 786956
+	543  -  MemoryUsage of job (MB)
+	555960  -  ResidentSetSize of job (KB)
+...
+005 (878370.000.000) 10/30 11:14:50 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:21:43, Sys 0 00:01:46  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:21:43, Sys 0 00:01:46  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :        1        1          
+	   Memory (MB)          :      543      543          
+...
