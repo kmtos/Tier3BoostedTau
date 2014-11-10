@@ -1,0 +1,6 @@
+Universe   = vanilla
+Executable = tauanalyzer_T_t-channel_cfg.sh
+Log        = Csubmit_tauanalyzer_T_t-channel_cfg.log
+Output     = Csubmit_tauanalyzer_T_t-channel_cfg.out
+Error      = Csubmit_tauanalyzer_T_t-channel_cfg.error
+Queue

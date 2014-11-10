@@ -310,7 +310,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   vector<string> legendHeaders1TTJets(canvasNames1D.size(), "t#bar{t} + jets normalized to 1");
   vector<string> legendHeaders1T(canvasNames1D.size(), "t/#bar{t} normalized to 1");
   vector<string> legendHeaders1WNJetsToLNu(canvasNames1D.size(), "W + #geq1 jet normalized to 1");
-  vector<string> legendHeaders1Wbb(canvasNames1D.size(), "W + b#bar{b} normalized to 1");
+  //vector<string> legendHeaders1Wbb(canvasNames1D.size(), "W + b#bar{b} normalized to 1");
   vector<string> legendHeaders1WJetsToLNu(canvasNames1D.size(), "W + jets normalized to 1");
   vector<string> legendHeaders1WZ(canvasNames1D.size(), "WZ normalized to 1");
   vector<string> legendHeaders1ZZ(canvasNames1D.size(), "ZZ normalized to 1");
@@ -468,7 +468,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   //space-saving constant definitions
   string user(gSystem->GetFromPipe("whoami").Data());
   const string analysisFilePath("/mnt/hadoop/store/user/kmtos/data1/kmtos/");
-  const string analysisFilePathOut("/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/formatPlots_output/");
+  const string analysisFilePathOut("/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/OUTPUT/" + a1Mass +"/");
   const string fileExt(".root");
   const string tag19p7InvFb("_19p7fb-1");
   const string tag1("_normalizedTo1");
@@ -664,10 +664,10 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   //"hadd" Wh1 sample just to get the formatting of the 2D plots the same
   cout << "...Wh1\n";
   string Wh1Suffix(Wh1SigVTag + fileExt);
-  string Wh1IsoPrefix(analysisFilePath + "Wh1_Medium/muHadIsoAnalysis_Wh1_a9");
-  string Wh1IsoHaddOutputFile(analysisFilePathOut + "muHadIsoAnalysis_Wh1_a9" + "_hadd" + Wh1Suffix);
+  string Wh1IsoPrefix(analysisFilePath + "Wh1_Medium/muHadIsoAnalysis" + MTBin + "_Wh1_a9");
+  string Wh1IsoHaddOutputFile(analysisFilePathOut + "muHadIsoAnalysis" + MTBin + "_Wh1_a9" + "_hadd" + Wh1Suffix);
   string Wh1AllPrefix(analysisFilePath + "Wh1_Medium/muHadAnalysis_Wh1_a9");
-  string Wh1AllHaddOutputFile(analysisFilePathOut + "muHadAnalysis_Wh1_a9" + "_hadd" + Wh1Suffix);
+  string Wh1AllHaddOutputFile(analysisFilePathOut + "muHadAnalysis" + MTBin + "_Wh1_a9" + "_hadd" + Wh1Suffix);
   vector<string> Wh1IsoHaddInputFiles;
   vector<string> Wh1AllHaddInputFiles;
   stringstream Wh1IsoName;
@@ -1061,6 +1061,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
     }
   }
 
+/*
   //"hadd" W + bbbar sample just to get the formatting of the 2D plots the same
   cout << "...Wbb\n";
   string WbbSuffix(WbbVTag + fileExt);
@@ -1149,7 +1150,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   // 		 vector<float>(1, 40.174179542426), canvasNames1D, graphNames1D, 
   // 		 canvasNames2D, graphNames2D, nullBlindLow, nullBlindHigh);
   // }
-
+*/
   //"hadd" WZ sample just to get the formatting of the 2D plots the same
   cout << "...WZ\n";
   string WZSuffix(WZVTag + fileExt);
@@ -1285,6 +1286,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   cout << endl;
 
   //compare MC signal to background
+cout << "MTBIN= " << MTBin << endl;
   string sigVsBkgOutputFile(analysisFilePathOut + "results/sigVsBkg_muHadIsoAnalysis" + MTBin + 
 			    uncTag + tag19p7InvFb + outputVTag + fileExt);
   string sigVsBkgOutputFile1(analysisFilePathOut + "results/sigVsBkg_muHadIsoAnalysis" + MTBin + tag1 + 
@@ -1408,7 +1410,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   }
 
   //compute data-driven QCD estimate in signal (i.e. isolated W muon + isolated tau) region
-  string outputFileNameA(analysisFilePath + "results/dataVsMC_RegionAQCDEstimate" + dataVTag + 
+  string outputFileNameA(analysisFilePathOut + "results/dataVsMC_RegionAQCDEstimate" + dataVTag + 
 			 fileExt);
   string inputFileNameB(nonIsoWDataIsoHaddOutputFile); // Region C
   string inputFileNameC(dataVsMCOutputDiff); // Region B
@@ -1422,7 +1424,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   }
 
   //compute data-driven QCD estimate in control (i.e. isolated W muon + non-isolated tau) region
-  string outputFileNameB(analysisFilePath + "results/dataVsMC_RegionBQCDEstimate" + dataVTag + 
+  string outputFileNameB(analysisFilePathOut + "results/dataVsMC_RegionBQCDEstimate" + dataVTag + 
 			 fileExt);
   if (uncTag == "") {
     cout << "\nPlot data-driven QCD estimate for region B\n---\n";
@@ -1642,8 +1644,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   cout << "...single top\n";
   string TSearchVsControlOutputFile(analysisFilePathOut + "SingleTop/analysis/isoVsNonIsoTaus" + MTBin + 
   				    tag1 + outputVTag + fileExt);
-  string TSearchVsControlReweightOutputFile = 
-    smartReplace(TSearchVsControlOutputFile, "NonIso", "NonIsoReweight");
+  string TSearchVsControlReweightOutputFile = smartReplace(TSearchVsControlOutputFile, "NonIso", "NonIsoReweight");
   vector<string> TSearchVsControlInputFiles;
   TSearchVsControlInputFiles.push_back(TIsoHaddOutputFile);
   TSearchVsControlInputFiles.push_back(TNonIsoHaddOutputFile);
@@ -1668,13 +1669,11 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   string WNJetsToLNuSearchVsControlOutputFile(analysisFilePathOut + 
   					      "WNJetsToLNu/analysis/isoVsNonIsoTaus" + MTBin + tag1 + 
   					      outputVTag + fileExt);
-  string WNJetsToLNuSearchVsControlReweightOutputFile = 
-    smartReplace(WNJetsToLNuSearchVsControlOutputFile, "NonIso", "NonIsoReweight");
+  string WNJetsToLNuSearchVsControlReweightOutputFile = smartReplace(WNJetsToLNuSearchVsControlOutputFile, "NonIso", "NonIsoReweight");
   vector<string> WNJetsToLNuSearchVsControlInputFiles;
   WNJetsToLNuSearchVsControlInputFiles.push_back(WNJetsToLNuIsoHaddOutputFile);
   WNJetsToLNuSearchVsControlInputFiles.push_back(WNJetsToLNuNonIsoHaddOutputFile);
-  vector<string> 
-    WNJetsToLNuSearchVsControlReweightInputFiles(WNJetsToLNuSearchVsControlInputFiles);
+  vector<string> WNJetsToLNuSearchVsControlReweightInputFiles(WNJetsToLNuSearchVsControlInputFiles);
   WNJetsToLNuSearchVsControlReweightInputFiles[1] = WNJetsToLNuNonIsoReweightHaddOutputFile;
   if (uncTag == "") {
     cout << "...without reweighting\n";
@@ -1684,6 +1683,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
 					  legendEntriesSearchVsControl, weights1, setLinY, drawSame, 
 					  dataMC);
   }
+
   // cout << "...with reweighting\n";
   // drawMultipleEfficiencyGraphsOn1Canvas(WNJetsToLNuSearchVsControlReweightOutputFile, 
   // 					WNJetsToLNuSearchVsControlReweightInputFiles, 
@@ -1692,16 +1692,15 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   // 					setLinY, drawSame, dataMC);
 
   //compare W+bbbar search sample to control sample
-  cout << "...Wbb\n";
-  string WbbSearchVsControlOutputFile(analysisFilePathOut + "Wbb/analysis/isoVsNonIsoTaus" + MTBin + tag1 + 
-  				      outputVTag + fileExt);
-  string WbbSearchVsControlReweightOutputFile = 
-    smartReplace(WbbSearchVsControlOutputFile, "NonIso", "NonIsoReweight");
-  vector<string> WbbSearchVsControlInputFiles;
+  //cout << "...Wbb\n";
+  //string WbbSearchVsControlOutputFile(analysisFilePathOut + "Wbb/analysis/isoVsNonIsoTaus" + MTBin + tag1 + outputVTag + fileExt);
+  //string WbbSearchVsControlReweightOutputFile = 
+  //smartReplace(WbbSearchVsControlOutputFile, "NonIso", "NonIsoReweight");
+  //vector<string> WbbSearchVsControlInputFiles;
   //WbbSearchVsControlInputFiles.push_back(WbbIsoHaddOutputFile);
   //WbbSearchVsControlInputFiles.push_back(WbbNonIsoHaddOutputFile);
-  vector<string> WbbSearchVsControlReweightInputFiles(WbbSearchVsControlInputFiles);
-  WbbSearchVsControlReweightInputFiles[1] = WbbNonIsoReweightHaddOutputFile;
+  //vector<string> WbbSearchVsControlReweightInputFiles(WbbSearchVsControlInputFiles);
+  //WbbSearchVsControlReweightInputFiles[1] = WbbNonIsoReweightHaddOutputFile;
   // cout << "...without reweighting\n";
   // drawMultipleEfficiencyGraphsOn1Canvas(WbbSearchVsControlOutputFile, 
   // 					WbbSearchVsControlInputFiles, canvasNames1D, graphNames1D, 
@@ -1714,19 +1713,18 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   // 					canvasNames1D, graphNames1D, legendHeaders1Wbb, colors, 
   // 					styles, legendEntriesSearchVsControl, weights1, setLinY, 
   // 					drawSame, dataMC);
-
+/*
   //compare W+jets jet search sample to control sample
   cout << "...W+jets\n";
-  string WJetsToLNuSearchVsControlOutputFile(analysisFilePathOut + 
-  					     "WJetsToLNu/analysis/isoVsNonIsoTaus" + MTBin + tag1 + 
-  					     outputVTag + fileExt);
-  string WJetsToLNuSearchVsControlReweightOutputFile = 
-    smartReplace(WJetsToLNuSearchVsControlOutputFile, "NonIso", "NonIsoReweight");
+  string WJetsToLNuSearchVsControlOutputFile(analysisFilePathOut + "WJetsToLNu/analysis/isoVsNonIsoTaus" + MTBin + tag1 + outputVTag + fileExt);
+  string WJetsToLNuSearchVsControlReweightOutputFile = smartReplace(WJetsToLNuSearchVsControlOutputFile, "NonIso", "NonIsoReweight");
   vector<string> WJetsToLNuSearchVsControlInputFiles;
-  // WJetsToLNuSearchVsControlInputFiles.push_back(WJetsToLNuIsoHaddOutputFile);
-  // WJetsToLNuSearchVsControlInputFiles.push_back(WJetsToLNuNonIsoHaddOutputFile);
+//THE TWO FILES UNDERNEATH HERE ARE THE ONES I UNOMMENTED AND WERE CAUSING THE SEG FAULT (ITHINK) -KYLE
+  WJetsToLNuSearchVsControlInputFiles.push_back(WJetsToLNuIsoHaddOutputFile);
+  WJetsToLNuSearchVsControlInputFiles.push_back(WJetsToLNuNonIsoHaddOutputFile);
   vector<string> WJetsToLNuSearchVsControlReweightInputFiles(WJetsToLNuSearchVsControlInputFiles);
   WJetsToLNuSearchVsControlReweightInputFiles[1] = WJetsToLNuNonIsoReweightHaddOutputFile;
+*/
   // cout << "...without reweighting\n";
   // drawMultipleEfficiencyGraphsOn1Canvas(WJetsToLNuSearchVsControlOutputFile, 
   // 					WJetsToLNuSearchVsControlInputFiles, canvasNames1D, 
@@ -1851,7 +1849,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   		pair<string, float>(dataVsMCOutputFile, 1.0), 
   		vector<string>(1, "muHadMass"), vector<string>(1, "m_{#mu+had} (GeV)"), 
   		vector<int>(1, 1), vector<int>(1, 2), 
-  		analysisFilePath + "results/final" + MTBin + uncTag + outputVTag + fileExt, "main 5");
+  		analysisFilePathOut + "results/final" + MTBin + uncTag + outputVTag + fileExt, "main 5");
 
 //   //print the hadronic tau pT weights and their statistical errors
 //   printWeightsAndErrors(nonIsoWDataIsoHaddOutputFile, dataNonIsoHaddOutputFile);
@@ -1883,7 +1881,7 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   normRegionUpperBins.push_back(9);
   makeMCClosurePlots(sigVsBkgOutputFile, vars, units, dataVsMCOutputFile, 1.0, 
   		     normRegionLowerBins, normRegionUpperBins, 
-  		     analysisFilePath + "results/MC_closure_" + MTBin + uncTag + outputVersion + fileExt);
+  		     analysisFilePathOut + "results/MC_closure_" + MTBin + uncTag + outputVersion + fileExt);
 
   //make plots of hadronic tau pT to support reweighting
   vector<string> fileNames;
@@ -1899,12 +1897,13 @@ void formatPlots(const string& inputVersion, const string& outputVersion,
   stylePairs.push_back(pair<Style_t, Style_t>(21, 22));
   stylePairs.push_back(pair<Style_t, Style_t>(23, 20));
   plotTauHadPT(fileNames, colorPairs, stylePairs, 
-  	       analysisFilePath + "results/tauHadPT" + MTBin + outputVTag + fileExt);
+  	       analysisFilePathOut + "results/tauHadPT" + MTBin + outputVTag + fileExt);
 
   //plot ratio of region C and B data tau pT spectra and fit
+  //THIS IS WHERE I GET AN ERROR ABOUT _highMT fitting having an "abnormal termination"
   cout << "---\nFitting for weights\n";
   calculateTauPTWeightsFromFit(nonIsoWDataIsoHaddOutputFile, dataNonIsoHaddOutputFile, 
-  			       analysisFilePath + "results/tauHadPTWeights" + outputVTag + 
+  			       analysisFilePathOut + "results/tauHadPTWeights" + outputVTag + 
   			       fileExt);
 
   // cout << "---\nCalculating fake rates\n";

@@ -1,0 +1,298 @@
+03-Nov-2014 12:28:59 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/data1/kmtos/Wh1_Medium/EDM_files/data_no_selection_a13_v6.root
+03-Nov-2014 12:29:00 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/data1/kmtos/Wh1_Medium/EDM_files/data_no_selection_a13_v6.root
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.242843
+   1 0.317953
+   2 0.329709
+   3 0.343963
+   4 0.313315
+   5 0.571753
+   6 0.449497
+   7 0.450275
+   8 0.632637
+   9 0.949628
+   10 1.34308
+   11 1.69175
+   12 1.73811
+   13 1.55311
+   14 1.32768
+   15 1.15945
+   16 1.07293
+   17 1.04693
+   18 1.06444
+   19 1.10828
+   20 1.15024
+   21 1.17641
+   22 1.18815
+   23 1.18663
+   24 1.1651
+   25 1.11795
+   26 1.04515
+   27 0.951183
+   28 0.840359
+   29 0.719592
+   30 0.596457
+   31 0.478605
+   32 0.371059
+   33 0.277507
+   34 0.199515
+   35 0.13735
+   36 0.0905855
+   37 0.0574207
+   38 0.0351481
+   39 0.0209612
+   40 0.0122987
+   41 0.00720503
+   42 0.00427505
+   43 0.00261544
+   44 0.00167893
+   45 0.00114203
+   46 0.000825676
+   47 0.000631084
+   48 0.000504862
+   49 0.000418183
+   50 0.000355553
+   51 0.000307968
+   52 0.00027056
+   53 0.000239978
+   54 0.000213904
+   55 0.000191231
+   56 0.000170813
+   57 0.000152189
+   58 0.000134974
+   59 0.000250247
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.242843
+   1 0.317953
+   2 0.329709
+   3 0.343963
+   4 0.313315
+   5 0.571753
+   6 0.449497
+   7 0.450275
+   8 0.632637
+   9 0.949628
+   10 1.34308
+   11 1.69175
+   12 1.73811
+   13 1.55311
+   14 1.32768
+   15 1.15945
+   16 1.07293
+   17 1.04693
+   18 1.06444
+   19 1.10828
+   20 1.15024
+   21 1.17641
+   22 1.18815
+   23 1.18663
+   24 1.1651
+   25 1.11795
+   26 1.04515
+   27 0.951183
+   28 0.840359
+   29 0.719592
+   30 0.596457
+   31 0.478605
+   32 0.371059
+   33 0.277507
+   34 0.199515
+   35 0.13735
+   36 0.0905855
+   37 0.0574207
+   38 0.0351481
+   39 0.0209612
+   40 0.0122987
+   41 0.00720503
+   42 0.00427505
+   43 0.00261544
+   44 0.00167893
+   45 0.00114203
+   46 0.000825676
+   47 0.000631084
+   48 0.000504862
+   49 0.000418183
+   50 0.000355553
+   51 0.000307968
+   52 0.00027056
+   53 0.000239978
+   54 0.000213904
+   55 0.000191231
+   56 0.000170813
+   57 0.000152189
+   58 0.000134974
+   59 0.000250247
+Begin processing the 1st record. Run 1, Event 2, LumiSection 1 at 03-Nov-2014 12:29:27.532 PST
+Begin processing the 1001st record. Run 211, Event 10, LumiSection 1 at 03-Nov-2014 12:32:25.091 PST
+Begin processing the 2001st record. Run 337, Event 104, LumiSection 1 at 03-Nov-2014 12:35:16.115 PST
+Begin processing the 3001st record. Run 461, Event 37, LumiSection 1 at 03-Nov-2014 12:37:48.537 PST
+Begin processing the 4001st record. Run 584, Event 286, LumiSection 1 at 03-Nov-2014 12:39:57.453 PST
+Begin processing the 5001st record. Run 705, Event 264, LumiSection 1 at 03-Nov-2014 12:41:22.738 PST
+Begin processing the 6001st record. Run 826, Event 199, LumiSection 1 at 03-Nov-2014 12:42:52.137 PST
+Begin processing the 7001st record. Run 942, Event 216, LumiSection 1 at 03-Nov-2014 12:44:17.137 PST
+03-Nov-2014 12:44:49 PST  Closed file file:/mnt/hadoop/store/user/kmtos/data1/kmtos/Wh1_Medium/EDM_files/data_no_selection_a13_v6.root
+Maximum HPS tau pT: 207.24 GeV
+Maximum mu+had mass: 11.925 GeV
+
+Maximum HPS tau pT: 240.246 GeV
+Maximum mu+had mass: 11.9406 GeV
+
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 7442 passed = 7442 failed = 0
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0       7442       7442          0          0 begin
+TrigReport     1    1       7442       1087       6355          0 highMT
+TrigReport     1    2       7442        339       7103          0 lowMT
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: begin ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0       7442       7442          0          0 genWMuNuSelector
+TrigReport     1    0       7442       7442          0          0 genWTauNuSelector
+TrigReport     1    0       7442       7442          0          0 genPartonSelector
+TrigReport     1    0       7442       7442          0          0 genMuSelector
+TrigReport     1    0       7442       7442          0          0 genTauMuSelector
+
+TrigReport ---------- Modules in Path: highMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1       7442       3208       4234          0 muHadIsoTauSelector
+TrigReport     1    1       3208       2916        292          0 IsoBVetoFilter
+TrigReport     1    1       2916       2916          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    1       2916       2888         28          0 muonTriggerObjectFilter
+TrigReport     1    1       2888       1459       1429          0 OSSFFilterIso
+TrigReport     1    1       1459       1426         33          0 SSSFFilterIso
+TrigReport     1    1       1426       1087        339          0 highMTFilter
+TrigReport     1    1       1087       1087          0          0 highMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Modules in Path: lowMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    2       7442       3208       4234          0 muHadIsoTauSelector
+TrigReport     1    2       3208       2916        292          0 IsoBVetoFilter
+TrigReport     1    2       2916       2916          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    2       2916       2888         28          0 muonTriggerObjectFilter
+TrigReport     1    2       2888       1459       1429          0 OSSFFilterIso
+TrigReport     1    2       1459       1426         33          0 SSSFFilterIso
+TrigReport     1    2       1426        339       1087          0 lowMTFilter
+TrigReport     1    2        339        339          0          0 lowMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport       7442       7442       7442          0          0 genWMuNuSelector
+TrigReport       7442       7442       7442          0          0 genWTauNuSelector
+TrigReport       7442       7442       7442          0          0 genPartonSelector
+TrigReport       7442       7442       7442          0          0 genMuSelector
+TrigReport       7442       7442       7442          0          0 genTauMuSelector
+TrigReport      14884       7442       3208       4234          0 muHadIsoTauSelector
+TrigReport       6416       3208       2916        292          0 IsoBVetoFilter
+TrigReport       5832       2916       2916          0          0 corrJetDistinctIsoTauSelector
+TrigReport       5832       2916       2888         28          0 muonTriggerObjectFilter
+TrigReport       5776       2888       1459       1429          0 OSSFFilterIso
+TrigReport       2918       1459       1426         33          0 SSSFFilterIso
+TrigReport       1426       1426       1087        339          0 highMTFilter
+TrigReport       1087       1087       1087          0          0 highMTMuHadIsoTauAnalyzer
+TrigReport       1426       1426        339       1087          0 lowMTFilter
+TrigReport        339        339        339          0          0 lowMTMuHadIsoTauAnalyzer
+TrigReport       7442       7442       7442          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.054709 Real/event = 0.101135
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.048401   0.090165   0.048401   0.090165 begin
+TimeReport   0.005567   0.009736   0.005567   0.009736 highMT
+TimeReport   0.000676   0.001154   0.000676   0.001154 lowMT
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: begin ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.016555   0.030860   0.016555   0.030860 genWMuNuSelector
+TimeReport   0.015686   0.028838   0.015686   0.028838 genWTauNuSelector
+TimeReport   0.000071   0.000134   0.000071   0.000134 genPartonSelector
+TimeReport   0.000172   0.000511   0.000172   0.000511 genMuSelector
+TimeReport   0.015901   0.029767   0.015901   0.029767 genTauMuSelector
+
+TimeReport ---------- Modules in Path: highMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.001687   0.002957   0.001687   0.002957 muHadIsoTauSelector
+TimeReport   0.000380   0.000717   0.000880   0.001662 IsoBVetoFilter
+TimeReport   0.000373   0.000751   0.000951   0.001916 corrJetDistinctIsoTauSelector
+TimeReport   0.000692   0.001128   0.001766   0.002878 muonTriggerObjectFilter
+TimeReport   0.000008   0.000009   0.000019   0.000022 OSSFFilterIso
+TimeReport   0.000004   0.000002   0.000019   0.000010 SSSFFilterIso
+TimeReport   0.000054   0.000073   0.000283   0.000379 highMTFilter
+TimeReport   0.002355   0.004092   0.016124   0.028013 highMTMuHadIsoTauAnalyzer
+
+TimeReport ---------- Modules in Path: lowMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000001   0.000001   0.000001   0.000001 muHadIsoTauSelector
+TimeReport   0.000001   0.000000   0.000002   0.000001 IsoBVetoFilter
+TimeReport   0.000001   0.000000   0.000002   0.000001 corrJetDistinctIsoTauSelector
+TimeReport   0.000001   0.000000   0.000002   0.000001 muonTriggerObjectFilter
+TimeReport   0.000000   0.000000   0.000001   0.000001 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000001   0.000001 SSSFFilterIso
+TimeReport   0.000010   0.000010   0.000050   0.000050 lowMTFilter
+TimeReport   0.000657   0.001134   0.014423   0.024904 lowMTMuHadIsoTauAnalyzer
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.016555   0.030860   0.016555   0.030860   0.016555   0.030860 genWMuNuSelector
+TimeReport   0.015686   0.028838   0.015686   0.028838   0.015686   0.028838 genWTauNuSelector
+TimeReport   0.000071   0.000134   0.000071   0.000134   0.000071   0.000134 genPartonSelector
+TimeReport   0.000172   0.000511   0.000172   0.000511   0.000172   0.000511 genMuSelector
+TimeReport   0.015901   0.029767   0.015901   0.029767   0.015901   0.029767 genTauMuSelector
+TimeReport   0.001689   0.002958   0.001689   0.002958   0.000844   0.001479 muHadIsoTauSelector
+TimeReport   0.000380   0.000717   0.000882   0.001664   0.000441   0.000832 IsoBVetoFilter
+TimeReport   0.000373   0.000751   0.000953   0.001917   0.000476   0.000959 corrJetDistinctIsoTauSelector
+TimeReport   0.000693   0.001128   0.001768   0.002879   0.000884   0.001439 muonTriggerObjectFilter
+TimeReport   0.000008   0.000009   0.000020   0.000023   0.000010   0.000012 OSSFFilterIso
+TimeReport   0.000004   0.000002   0.000020   0.000011   0.000010   0.000006 SSSFFilterIso
+TimeReport   0.000054   0.000073   0.000283   0.000379   0.000283   0.000379 highMTFilter
+TimeReport   0.002355   0.004092   0.016124   0.028013   0.016124   0.028013 highMTMuHadIsoTauAnalyzer
+TimeReport   0.000010   0.000010   0.000050   0.000050   0.000050   0.000050 lowMTFilter
+TimeReport   0.000657   0.001134   0.014423   0.024904   0.014423   0.024904 lowMTMuHadIsoTauAnalyzer
+TimeReport   0.000044   0.000061   0.000044   0.000061   0.000044   0.000061 TriggerResults
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostEndRun                        
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3

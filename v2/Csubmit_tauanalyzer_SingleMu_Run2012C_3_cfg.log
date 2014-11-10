@@ -1,0 +1,51 @@
+000 (878417.000.000) 11/03 09:19:29 Job submitted from host: <128.120.80.20:33339>
+...
+001 (878417.000.000) 11/03 09:19:40 Job executing on host: <10.8.255.0:33999>
+...
+006 (878417.000.000) 11/03 09:19:49 Image size of job updated: 93044
+	2  -  MemoryUsage of job (MB)
+	1140  -  ResidentSetSize of job (KB)
+...
+006 (878417.000.000) 11/03 09:24:49 Image size of job updated: 726364
+	501  -  MemoryUsage of job (MB)
+	512504  -  ResidentSetSize of job (KB)
+...
+006 (878417.000.000) 11/03 09:29:49 Image size of job updated: 772700
+	524  -  MemoryUsage of job (MB)
+	536212  -  ResidentSetSize of job (KB)
+...
+006 (878417.000.000) 11/03 09:34:50 Image size of job updated: 774492
+	524  -  MemoryUsage of job (MB)
+	536212  -  ResidentSetSize of job (KB)
+...
+006 (878417.000.000) 11/03 09:39:51 Image size of job updated: 784476
+	530  -  MemoryUsage of job (MB)
+	542640  -  ResidentSetSize of job (KB)
+...
+006 (878417.000.000) 11/03 09:44:51 Image size of job updated: 796764
+	540  -  MemoryUsage of job (MB)
+	552096  -  ResidentSetSize of job (KB)
+...
+006 (878417.000.000) 11/03 09:59:52 Image size of job updated: 796764
+	549  -  MemoryUsage of job (MB)
+	562016  -  ResidentSetSize of job (KB)
+...
+006 (878417.000.000) 11/03 10:07:11 Image size of job updated: 798304
+	549  -  MemoryUsage of job (MB)
+	562016  -  ResidentSetSize of job (KB)
+...
+005 (878417.000.000) 11/03 10:07:11 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:21:12, Sys 0 00:01:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:21:12, Sys 0 00:01:06  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :        1        1          
+	   Memory (MB)          :      549      549          
+...

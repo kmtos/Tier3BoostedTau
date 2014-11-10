@@ -1,0 +1,960 @@
+03-Nov-2014 09:21:54 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_186_1_K5l.root
+03-Nov-2014 09:21:56 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_186_1_K5l.root
+Begin processing the 1st record. Run 199409, Event 687056387, LumiSection 563 at 03-Nov-2014 09:22:05.609 PST
+03-Nov-2014 09:22:10 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_186_1_K5l.root
+03-Nov-2014 09:22:10 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_187_1_yOS.root
+03-Nov-2014 09:22:10 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_187_1_yOS.root
+03-Nov-2014 09:22:25 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_187_1_yOS.root
+03-Nov-2014 09:22:25 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_188_1_mIC.root
+03-Nov-2014 09:22:25 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_188_1_mIC.root
+Begin processing the 1001st record. Run 199409, Event 1085718225, LumiSection 941 at 03-Nov-2014 09:22:34.548 PST
+03-Nov-2014 09:22:35 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_188_1_mIC.root
+03-Nov-2014 09:22:35 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_189_1_SuX.root
+03-Nov-2014 09:22:35 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_189_1_SuX.root
+03-Nov-2014 09:22:46 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_189_1_SuX.root
+03-Nov-2014 09:22:46 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_18_1_YXk.root
+03-Nov-2014 09:22:46 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_18_1_YXk.root
+03-Nov-2014 09:22:59 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_18_1_YXk.root
+03-Nov-2014 09:22:59 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_190_1_P23.root
+03-Nov-2014 09:22:59 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_190_1_P23.root
+Begin processing the 2001st record. Run 199435, Event 1410285661, LumiSection 1336 at 03-Nov-2014 09:23:24.758 PST
+03-Nov-2014 09:23:33 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_190_1_P23.root
+03-Nov-2014 09:23:33 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_191_1_4Jv.root
+03-Nov-2014 09:23:33 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_191_1_4Jv.root
+03-Nov-2014 09:23:43 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_191_1_4Jv.root
+03-Nov-2014 09:23:43 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_192_1_j2Q.root
+03-Nov-2014 09:23:43 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_192_1_j2Q.root
+Begin processing the 3001st record. Run 199571, Event 17262674, LumiSection 15 at 03-Nov-2014 09:23:52.589 PST
+03-Nov-2014 09:23:52 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_192_1_j2Q.root
+03-Nov-2014 09:23:52 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_193_1_w3Z.root
+03-Nov-2014 09:23:53 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_193_1_w3Z.root
+03-Nov-2014 09:24:03 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_193_1_w3Z.root
+03-Nov-2014 09:24:03 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_194_1_VKJ.root
+03-Nov-2014 09:24:03 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_194_1_VKJ.root
+03-Nov-2014 09:24:15 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_194_1_VKJ.root
+03-Nov-2014 09:24:15 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_195_1_lN8.root
+03-Nov-2014 09:24:15 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_195_1_lN8.root
+Begin processing the 4001st record. Run 199428, Event 317555748, LumiSection 251 at 03-Nov-2014 09:24:24.232 PST
+03-Nov-2014 09:24:26 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_195_1_lN8.root
+03-Nov-2014 09:24:26 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_196_1_1ct.root
+03-Nov-2014 09:24:27 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_196_1_1ct.root
+03-Nov-2014 09:24:37 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_196_1_1ct.root
+03-Nov-2014 09:24:37 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_197_1_9Mj.root
+03-Nov-2014 09:24:37 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_197_1_9Mj.root
+Begin processing the 5001st record. Run 200075, Event 141769489, LumiSection 152 at 03-Nov-2014 09:24:50.062 PST
+03-Nov-2014 09:24:51 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_197_1_9Mj.root
+03-Nov-2014 09:24:51 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_198_1_zbG.root
+03-Nov-2014 09:24:51 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_198_1_zbG.root
+03-Nov-2014 09:25:03 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_198_1_zbG.root
+03-Nov-2014 09:25:03 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_199_1_8UQ.root
+03-Nov-2014 09:25:03 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_199_1_8UQ.root
+Begin processing the 6001st record. Run 199608, Event 777629693, LumiSection 666 at 03-Nov-2014 09:25:26.553 PST
+03-Nov-2014 09:25:27 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_199_1_8UQ.root
+03-Nov-2014 09:25:27 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_19_1_Kur.root
+03-Nov-2014 09:25:27 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_19_1_Kur.root
+03-Nov-2014 09:25:37 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_19_1_Kur.root
+03-Nov-2014 09:25:37 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_1_1_FPm.root
+03-Nov-2014 09:25:37 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_1_1_FPm.root
+03-Nov-2014 09:25:46 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_1_1_FPm.root
+03-Nov-2014 09:25:46 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_200_1_AWq.root
+03-Nov-2014 09:25:46 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_200_1_AWq.root
+Begin processing the 7001st record. Run 199960, Event 217417228, LumiSection 195 at 03-Nov-2014 09:25:58.263 PST
+03-Nov-2014 09:25:59 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_200_1_AWq.root
+03-Nov-2014 09:25:59 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_201_1_jV7.root
+03-Nov-2014 09:25:59 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_201_1_jV7.root
+03-Nov-2014 09:26:09 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_201_1_jV7.root
+03-Nov-2014 09:26:09 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_202_1_rju.root
+03-Nov-2014 09:26:09 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_202_1_rju.root
+03-Nov-2014 09:26:27 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_202_1_rju.root
+03-Nov-2014 09:26:27 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_203_1_MOu.root
+03-Nov-2014 09:26:27 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_203_1_MOu.root
+Begin processing the 8001st record. Run 199435, Event 1508188139, LumiSection 1456 at 03-Nov-2014 09:26:34.032 PST
+03-Nov-2014 09:26:37 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_203_1_MOu.root
+03-Nov-2014 09:26:37 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_204_1_kir.root
+03-Nov-2014 09:26:37 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_204_1_kir.root
+03-Nov-2014 09:26:46 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_204_1_kir.root
+03-Nov-2014 09:26:46 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_205_1_Jdc.root
+03-Nov-2014 09:26:46 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_205_1_Jdc.root
+Begin processing the 9001st record. Run 202060, Event 105788913, LumiSection 127 at 03-Nov-2014 09:26:59.304 PST
+03-Nov-2014 09:26:59 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_205_1_Jdc.root
+03-Nov-2014 09:26:59 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_206_1_Tvb.root
+03-Nov-2014 09:26:59 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_206_1_Tvb.root
+03-Nov-2014 09:27:08 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_206_1_Tvb.root
+03-Nov-2014 09:27:08 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_207_1_YjE.root
+03-Nov-2014 09:27:09 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_207_1_YjE.root
+03-Nov-2014 09:27:23 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_207_1_YjE.root
+03-Nov-2014 09:27:23 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_208_1_O2N.root
+03-Nov-2014 09:27:23 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_208_1_O2N.root
+Begin processing the 10001st record. Run 201817, Event 48596607, LumiSection 47 at 03-Nov-2014 09:27:35.540 PST
+03-Nov-2014 09:27:35 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_208_1_O2N.root
+03-Nov-2014 09:27:35 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_209_1_f1g.root
+03-Nov-2014 09:27:36 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_209_1_f1g.root
+03-Nov-2014 09:27:46 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_209_1_f1g.root
+03-Nov-2014 09:27:46 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_20_1_R9k.root
+03-Nov-2014 09:27:46 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_20_1_R9k.root
+03-Nov-2014 09:27:57 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_20_1_R9k.root
+03-Nov-2014 09:27:57 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_210_1_4el.root
+03-Nov-2014 09:27:58 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_210_1_4el.root
+Begin processing the 11001st record. Run 201817, Event 6365041, LumiSection 7 at 03-Nov-2014 09:28:09.932 PST
+03-Nov-2014 09:28:10 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_210_1_4el.root
+03-Nov-2014 09:28:10 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_211_1_9Uw.root
+03-Nov-2014 09:28:10 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_211_1_9Uw.root
+03-Nov-2014 09:28:20 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_211_1_9Uw.root
+03-Nov-2014 09:28:20 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_212_1_JaJ.root
+03-Nov-2014 09:28:20 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_212_1_JaJ.root
+03-Nov-2014 09:28:30 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_212_1_JaJ.root
+03-Nov-2014 09:28:30 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_213_1_Sgn.root
+03-Nov-2014 09:28:31 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_213_1_Sgn.root
+Begin processing the 12001st record. Run 199436, Event 53965864, LumiSection 74 at 03-Nov-2014 09:28:40.215 PST
+03-Nov-2014 09:28:41 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_213_1_Sgn.root
+03-Nov-2014 09:28:41 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_214_1_FN3.root
+03-Nov-2014 09:28:41 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_214_1_FN3.root
+03-Nov-2014 09:28:49 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_214_1_FN3.root
+03-Nov-2014 09:28:49 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_215_1_wxK.root
+03-Nov-2014 09:28:49 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_215_1_wxK.root
+03-Nov-2014 09:29:00 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_215_1_wxK.root
+03-Nov-2014 09:29:00 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_216_1_vqp.root
+03-Nov-2014 09:29:00 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_216_1_vqp.root
+03-Nov-2014 09:29:09 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_216_1_vqp.root
+03-Nov-2014 09:29:09 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_217_1_Jt6.root
+03-Nov-2014 09:29:10 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_217_1_Jt6.root
+Begin processing the 13001st record. Run 199436, Event 309204840, LumiSection 456 at 03-Nov-2014 09:29:21.924 PST
+03-Nov-2014 09:29:26 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_217_1_Jt6.root
+03-Nov-2014 09:29:26 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_218_1_awt.root
+03-Nov-2014 09:29:27 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_218_1_awt.root
+03-Nov-2014 09:29:35 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_218_1_awt.root
+03-Nov-2014 09:29:35 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_219_2_tqx.root
+03-Nov-2014 09:29:36 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_219_2_tqx.root
+Begin processing the 14001st record. Run 199875, Event 130254179, LumiSection 123 at 03-Nov-2014 09:30:36.629 PST
+03-Nov-2014 09:30:36 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_219_2_tqx.root
+03-Nov-2014 09:30:36 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_21_1_iYz.root
+03-Nov-2014 09:30:36 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_21_1_iYz.root
+03-Nov-2014 09:30:48 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_21_1_iYz.root
+03-Nov-2014 09:30:48 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_220_1_e6I.root
+03-Nov-2014 09:30:48 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_220_1_e6I.root
+03-Nov-2014 09:30:58 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_220_1_e6I.root
+03-Nov-2014 09:30:58 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_221_1_Bft.root
+03-Nov-2014 09:30:58 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_221_1_Bft.root
+Begin processing the 15001st record. Run 199571, Event 456455463, LumiSection 431 at 03-Nov-2014 09:31:08.292 PST
+03-Nov-2014 09:31:09 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_221_1_Bft.root
+03-Nov-2014 09:31:09 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_222_1_a3a.root
+03-Nov-2014 09:31:09 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_222_1_a3a.root
+03-Nov-2014 09:31:22 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_222_1_a3a.root
+03-Nov-2014 09:31:22 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_223_1_uqU.root
+03-Nov-2014 09:31:22 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_223_1_uqU.root
+03-Nov-2014 09:31:32 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_223_1_uqU.root
+03-Nov-2014 09:31:32 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_224_1_CFW.root
+03-Nov-2014 09:31:32 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_224_1_CFW.root
+Begin processing the 16001st record. Run 199572, Event 146858150, LumiSection 169 at 03-Nov-2014 09:31:53.726 PST
+03-Nov-2014 09:31:56 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_224_1_CFW.root
+03-Nov-2014 09:31:56 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_225_1_Qbl.root
+03-Nov-2014 09:31:56 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_225_1_Qbl.root
+03-Nov-2014 09:32:07 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_225_1_Qbl.root
+03-Nov-2014 09:32:07 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_226_1_2pV.root
+03-Nov-2014 09:32:07 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_226_1_2pV.root
+Begin processing the 17001st record. Run 199876, Event 53044261, LumiSection 42 at 03-Nov-2014 09:32:18.060 PST
+03-Nov-2014 09:32:18 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_226_1_2pV.root
+03-Nov-2014 09:32:18 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_227_1_41J.root
+03-Nov-2014 09:32:19 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_227_1_41J.root
+03-Nov-2014 09:32:38 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_227_1_41J.root
+03-Nov-2014 09:32:38 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_228_1_fyx.root
+03-Nov-2014 09:32:38 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_228_1_fyx.root
+03-Nov-2014 09:32:51 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_228_1_fyx.root
+03-Nov-2014 09:32:51 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_229_1_8g2.root
+03-Nov-2014 09:32:51 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_229_1_8g2.root
+Begin processing the 18001st record. Run 199608, Event 261686472, LumiSection 225 at 03-Nov-2014 09:33:04.102 PST
+03-Nov-2014 09:33:07 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_229_1_8g2.root
+03-Nov-2014 09:33:07 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_22_1_N97.root
+03-Nov-2014 09:33:07 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_22_1_N97.root
+03-Nov-2014 09:33:21 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_22_1_N97.root
+03-Nov-2014 09:33:21 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_230_1_hBw.root
+03-Nov-2014 09:33:21 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_230_1_hBw.root
+Begin processing the 19001st record. Run 199876, Event 138079330, LumiSection 113 at 03-Nov-2014 09:33:33.903 PST
+03-Nov-2014 09:33:34 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_230_1_hBw.root
+03-Nov-2014 09:33:34 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_231_1_lk8.root
+03-Nov-2014 09:33:34 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_231_1_lk8.root
+03-Nov-2014 09:33:53 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_231_1_lk8.root
+03-Nov-2014 09:33:53 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_232_1_ipP.root
+03-Nov-2014 09:33:53 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_232_1_ipP.root
+03-Nov-2014 09:34:03 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_232_1_ipP.root
+03-Nov-2014 09:34:03 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_233_1_STe.root
+03-Nov-2014 09:34:04 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_233_1_STe.root
+Begin processing the 20001st record. Run 199608, Event 1474703654, LumiSection 1380 at 03-Nov-2014 09:34:12.020 PST
+03-Nov-2014 09:34:13 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_233_1_STe.root
+03-Nov-2014 09:34:13 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_234_2_sWY.root
+03-Nov-2014 09:34:13 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_234_2_sWY.root
+03-Nov-2014 09:34:22 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_234_2_sWY.root
+03-Nov-2014 09:34:22 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_235_1_s3F.root
+03-Nov-2014 09:34:22 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_235_1_s3F.root
+03-Nov-2014 09:34:32 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_235_1_s3F.root
+03-Nov-2014 09:34:32 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_236_1_X3J.root
+03-Nov-2014 09:34:32 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_236_1_X3J.root
+Begin processing the 21001st record. Run 199608, Event 1769724805, LumiSection 1761 at 03-Nov-2014 09:34:40.091 PST
+03-Nov-2014 09:34:41 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_236_1_X3J.root
+03-Nov-2014 09:34:41 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_237_1_oD3.root
+03-Nov-2014 09:34:41 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_237_1_oD3.root
+03-Nov-2014 09:34:51 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_237_1_oD3.root
+03-Nov-2014 09:34:51 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_238_1_z6g.root
+03-Nov-2014 09:34:51 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_238_1_z6g.root
+Begin processing the 22001st record. Run 200042, Event 122275001, LumiSection 142 at 03-Nov-2014 09:35:05.586 PST
+03-Nov-2014 09:35:05 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_238_1_z6g.root
+03-Nov-2014 09:35:05 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_239_1_UeZ.root
+03-Nov-2014 09:35:05 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_239_1_UeZ.root
+03-Nov-2014 09:35:22 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_239_1_UeZ.root
+03-Nov-2014 09:35:22 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_23_1_03U.root
+03-Nov-2014 09:35:23 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_23_1_03U.root
+03-Nov-2014 09:35:39 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_23_1_03U.root
+03-Nov-2014 09:35:39 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_240_1_8kN.root
+03-Nov-2014 09:35:39 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_240_1_8kN.root
+03-Nov-2014 09:35:48 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_240_1_8kN.root
+03-Nov-2014 09:35:48 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_241_1_i03.root
+03-Nov-2014 09:35:48 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_241_1_i03.root
+Begin processing the 23001st record. Run 199608, Event 1413980889, LumiSection 1309 at 03-Nov-2014 09:35:55.218 PST
+03-Nov-2014 09:35:57 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_241_1_i03.root
+03-Nov-2014 09:35:57 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_242_1_i5N.root
+03-Nov-2014 09:35:57 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_242_1_i5N.root
+03-Nov-2014 09:36:12 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_242_1_i5N.root
+03-Nov-2014 09:36:12 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_243_1_LFX.root
+03-Nov-2014 09:36:12 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_243_1_LFX.root
+03-Nov-2014 09:36:20 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_243_1_LFX.root
+03-Nov-2014 09:36:20 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_244_1_J5C.root
+03-Nov-2014 09:36:21 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_244_1_J5C.root
+Begin processing the 24001st record. Run 199608, Event 1852712751, LumiSection 1880 at 03-Nov-2014 09:36:30.805 PST
+03-Nov-2014 09:36:32 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_244_1_J5C.root
+03-Nov-2014 09:36:32 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_245_2_AMe.root
+03-Nov-2014 09:36:32 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_245_2_AMe.root
+03-Nov-2014 09:36:41 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_245_2_AMe.root
+03-Nov-2014 09:36:41 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_246_1_dHL.root
+03-Nov-2014 09:36:41 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_246_1_dHL.root
+03-Nov-2014 09:37:01 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_246_1_dHL.root
+03-Nov-2014 09:37:01 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_247_2_5HG.root
+03-Nov-2014 09:37:01 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_247_2_5HG.root
+03-Nov-2014 09:37:13 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_247_2_5HG.root
+03-Nov-2014 09:37:13 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_248_2_QKU.root
+03-Nov-2014 09:37:13 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_248_2_QKU.root
+Begin processing the 25001st record. Run 199961, Event 112060149, LumiSection 103 at 03-Nov-2014 09:37:31.319 PST
+%MSG-e RunLumiMerging:  AfterSource 03-Nov-2014 09:37:31 PST PostBeginLumi
+Group::mergeGroup
+Two run/lumi products for the same run/lumi which should be equal are not
+Using the first, ignoring the second
+className = edm::ConditionsInLumiBlock
+moduleLabel = conditionsInEdm
+instance = 
+process = RECO
+
+%MSG
+03-Nov-2014 09:37:35 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_248_2_QKU.root
+03-Nov-2014 09:37:35 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_249_2_7Db.root
+03-Nov-2014 09:37:35 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_249_2_7Db.root
+03-Nov-2014 09:37:47 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_249_2_7Db.root
+03-Nov-2014 09:37:47 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_24_1_ZqL.root
+03-Nov-2014 09:37:48 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_24_1_ZqL.root
+03-Nov-2014 09:38:01 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_24_1_ZqL.root
+03-Nov-2014 09:38:01 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_250_2_WiH.root
+03-Nov-2014 09:38:01 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_250_2_WiH.root
+Begin processing the 26001st record. Run 199703, Event 401084322, LumiSection 472 at 03-Nov-2014 09:38:13.661 PST
+03-Nov-2014 09:38:15 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_250_2_WiH.root
+03-Nov-2014 09:38:16 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_251_2_phA.root
+03-Nov-2014 09:38:16 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_251_2_phA.root
+03-Nov-2014 09:38:28 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_251_2_phA.root
+03-Nov-2014 09:38:28 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_252_1_C1y.root
+03-Nov-2014 09:38:28 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_252_1_C1y.root
+%MSG-e RunLumiMerging:  AfterSource 03-Nov-2014 09:38:36 PST PostBeginLumi
+Group::mergeGroup
+Two run/lumi products for the same run/lumi which should be equal are not
+Using the first, ignoring the second
+className = edm::ConditionsInLumiBlock
+moduleLabel = conditionsInEdm
+instance = 
+process = RECO
+
+%MSG
+%MSG-e RunLumiMerging:  AfterSource 03-Nov-2014 09:38:36 PST PostBeginLumi
+Group::mergeGroup
+Two run/lumi products for the same run/lumi which should be equal are not
+Using the first, ignoring the second
+className = edm::ConditionsInLumiBlock
+moduleLabel = conditionsInEdm
+instance = 
+process = RECO
+
+%MSG
+Begin processing the 27001st record. Run 200600, Event 376919349, LumiSection 249 at 03-Nov-2014 09:38:37.976 PST
+03-Nov-2014 09:38:38 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_252_1_C1y.root
+03-Nov-2014 09:38:38 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_253_2_WCt.root
+03-Nov-2014 09:38:38 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_253_2_WCt.root
+03-Nov-2014 09:38:49 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_253_2_WCt.root
+03-Nov-2014 09:38:49 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_254_2_sLK.root
+03-Nov-2014 09:38:49 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_254_2_sLK.root
+03-Nov-2014 09:39:01 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_254_2_sLK.root
+03-Nov-2014 09:39:01 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_255_1_7LM.root
+03-Nov-2014 09:39:01 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_255_1_7LM.root
+Begin processing the 28001st record. Run 199754, Event 275163775, LumiSection 248 at 03-Nov-2014 09:39:11.824 PST
+03-Nov-2014 09:39:13 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_255_1_7LM.root
+03-Nov-2014 09:39:13 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_256_1_7Xr.root
+03-Nov-2014 09:39:13 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_256_1_7Xr.root
+03-Nov-2014 09:39:23 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_256_1_7Xr.root
+03-Nov-2014 09:39:23 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_257_2_GIY.root
+03-Nov-2014 09:39:23 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_257_2_GIY.root
+03-Nov-2014 09:39:33 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_257_2_GIY.root
+03-Nov-2014 09:39:33 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_258_2_I3Z.root
+03-Nov-2014 09:39:34 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_258_2_I3Z.root
+Begin processing the 29001st record. Run 199754, Event 547901838, LumiSection 532 at 03-Nov-2014 09:39:45.395 PST
+03-Nov-2014 09:39:47 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_258_2_I3Z.root
+03-Nov-2014 09:39:47 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_259_2_aYN.root
+03-Nov-2014 09:39:48 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_259_2_aYN.root
+03-Nov-2014 09:40:03 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_259_2_aYN.root
+03-Nov-2014 09:40:03 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_25_1_J9W.root
+03-Nov-2014 09:40:03 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_25_1_J9W.root
+03-Nov-2014 09:40:15 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_25_1_J9W.root
+03-Nov-2014 09:40:15 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_260_1_Qfm.root
+03-Nov-2014 09:40:16 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_260_1_Qfm.root
+Begin processing the 30001st record. Run 199754, Event 670430636, LumiSection 674 at 03-Nov-2014 09:40:28.169 PST
+03-Nov-2014 09:40:32 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_260_1_Qfm.root
+03-Nov-2014 09:40:32 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_261_1_hg3.root
+03-Nov-2014 09:40:32 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_261_1_hg3.root
+03-Nov-2014 09:40:47 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_261_1_hg3.root
+03-Nov-2014 09:40:47 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_262_1_VTC.root
+03-Nov-2014 09:40:47 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_262_1_VTC.root
+03-Nov-2014 09:41:13 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_262_1_VTC.root
+03-Nov-2014 09:41:13 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_263_2_wLU.root
+03-Nov-2014 09:41:13 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_263_2_wLU.root
+Begin processing the 31001st record. Run 199804, Event 46547550, LumiSection 86 at 03-Nov-2014 09:41:27.893 PST
+03-Nov-2014 09:41:41 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_263_2_wLU.root
+03-Nov-2014 09:41:41 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_264_2_ukw.root
+03-Nov-2014 09:41:41 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_264_2_ukw.root
+03-Nov-2014 09:41:59 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_264_2_ukw.root
+03-Nov-2014 09:41:59 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_265_2_oQg.root
+03-Nov-2014 09:41:59 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_265_2_oQg.root
+Begin processing the 32001st record. Run 199804, Event 545328843, LumiSection 470 at 03-Nov-2014 09:42:10.192 PST
+03-Nov-2014 09:42:13 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_265_2_oQg.root
+03-Nov-2014 09:42:13 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_266_1_DRB.root
+03-Nov-2014 09:42:13 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_266_1_DRB.root
+03-Nov-2014 09:42:31 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_266_1_DRB.root
+03-Nov-2014 09:42:31 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_267_2_lGA.root
+03-Nov-2014 09:42:31 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_267_2_lGA.root
+Begin processing the 33001st record. Run 199812, Event 499325521, LumiSection 418 at 03-Nov-2014 09:42:40.950 PST
+03-Nov-2014 09:42:42 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_267_2_lGA.root
+03-Nov-2014 09:42:42 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_268_1_cRA.root
+03-Nov-2014 09:42:42 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_268_1_cRA.root
+03-Nov-2014 09:43:01 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_268_1_cRA.root
+03-Nov-2014 09:43:01 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_269_2_8pB.root
+03-Nov-2014 09:43:01 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_269_2_8pB.root
+Begin processing the 34001st record. Run 201278, Event 874445028, LumiSection 662 at 03-Nov-2014 09:43:15.389 PST
+03-Nov-2014 09:43:17 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_269_2_8pB.root
+03-Nov-2014 09:43:17 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_26_1_9LH.root
+03-Nov-2014 09:43:17 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_26_1_9LH.root
+03-Nov-2014 09:43:29 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_26_1_9LH.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 34397 passed = 53 failed = 34344
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0      34397         32      34365          0 highMT
+TrigReport     1    1      34397         21      34376          0 lowMT
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: highMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0      34397        898      33499          0 muHadIsoTauSelector
+TrigReport     1    0        898        704        194          0 IsoBVetoFilter
+TrigReport     1    0        704        704          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    0        704        698          6          0 muonTriggerObjectFilter
+TrigReport     1    0        698         74        624          0 OSSFFilterIso
+TrigReport     1    0         74         53         21          0 SSSFFilterIso
+TrigReport     1    0         53         32         21          0 highMTFilter
+TrigReport     1    0         32         32          0          0 highMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Modules in Path: lowMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1      34397        898      33499          0 muHadIsoTauSelector
+TrigReport     1    1        898        704        194          0 IsoBVetoFilter
+TrigReport     1    1        704        704          0          0 corrJetDistinctIsoTauSelector
+TrigReport     1    1        704        698          6          0 muonTriggerObjectFilter
+TrigReport     1    1        698         74        624          0 OSSFFilterIso
+TrigReport     1    1         74         53         21          0 SSSFFilterIso
+TrigReport     1    1         53         21         32          0 lowMTFilter
+TrigReport     1    1         21         21          0          0 lowMTMuHadIsoTauAnalyzer
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport      68794      34397        898      33499          0 muHadIsoTauSelector
+TrigReport       1796        898        704        194          0 IsoBVetoFilter
+TrigReport       1408        704        704          0          0 corrJetDistinctIsoTauSelector
+TrigReport       1408        704        698          6          0 muonTriggerObjectFilter
+TrigReport       1396        698         74        624          0 OSSFFilterIso
+TrigReport        148         74         53         21          0 SSSFFilterIso
+TrigReport         53         53         32         21          0 highMTFilter
+TrigReport         32         32         32          0          0 highMTMuHadIsoTauAnalyzer
+TrigReport         53         53         21         32          0 lowMTFilter
+TrigReport         21         21         21          0          0 lowMTMuHadIsoTauAnalyzer
+TrigReport      34397      34397      34397          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.003427 Real/event = 0.009488
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.003254   0.009132   0.003254   0.009132 highMT
+TimeReport   0.000110   0.000298   0.000110   0.000298 lowMT
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: highMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.002745   0.007015   0.002745   0.007015 muHadIsoTauSelector
+TimeReport   0.000191   0.001100   0.007332   0.042153 IsoBVetoFilter
+TimeReport   0.000032   0.000096   0.001540   0.004708 corrJetDistinctIsoTauSelector
+TimeReport   0.000097   0.000388   0.004741   0.018959 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000053   0.000044 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000027   0.000020 SSSFFilterIso
+TimeReport   0.000010   0.000069   0.006791   0.044477 highMTFilter
+TimeReport   0.000170   0.000458   0.182472   0.492394 highMTMuHadIsoTauAnalyzer
+
+TimeReport ---------- Modules in Path: lowMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000001   0.000001   0.000001   0.000001 muHadIsoTauSelector
+TimeReport   0.000000   0.000000   0.000001   0.000001 IsoBVetoFilter
+TimeReport   0.000000   0.000000   0.000000   0.000001 corrJetDistinctIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000001 muonTriggerObjectFilter
+TimeReport   0.000000   0.000000   0.000006   0.000001 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000000   0.000001 SSSFFilterIso
+TimeReport   0.000000   0.000000   0.000113   0.000072 lowMTFilter
+TimeReport   0.000108   0.000295   0.176640   0.483424 lowMTMuHadIsoTauAnalyzer
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.002746   0.007015   0.002746   0.007015   0.001373   0.003508 muHadIsoTauSelector
+TimeReport   0.000191   0.001100   0.007333   0.042153   0.003666   0.021077 IsoBVetoFilter
+TimeReport   0.000032   0.000096   0.001540   0.004709   0.000770   0.002354 corrJetDistinctIsoTauSelector
+TimeReport   0.000097   0.000388   0.004741   0.018960   0.002370   0.009480 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000059   0.000045   0.000029   0.000022 OSSFFilterIso
+TimeReport   0.000000   0.000000   0.000027   0.000020   0.000014   0.000010 SSSFFilterIso
+TimeReport   0.000010   0.000069   0.006791   0.044477   0.006791   0.044477 highMTFilter
+TimeReport   0.000170   0.000458   0.182472   0.492394   0.182472   0.492394 highMTMuHadIsoTauAnalyzer
+TimeReport   0.000000   0.000000   0.000113   0.000072   0.000113   0.000072 lowMTFilter
+TimeReport   0.000108   0.000295   0.176640   0.483424   0.176640   0.483424 lowMTMuHadIsoTauAnalyzer
+TimeReport   0.000050   0.000049   0.000050   0.000049   0.000050   0.000049 TriggerResults
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 RunLumiMerging       -e AfterSource                            3        3
+    2 fileAction           -s file_close                            94       94
+    3 fileAction           -s file_open                            188      188
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 RunLumiMerging       PostBeginLumi    PostBeginLumi    PostBeginLumi
+    2 fileAction           PostProcessEvent PostProcessEvent PostEndRun
+    3 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Error                   3                   3
+System                282                 282
+03-Nov-2014 09:43:54 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_186_1_K5l.root
+03-Nov-2014 09:43:56 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_186_1_K5l.root
+Begin processing the 1st record. Run 199409, Event 687056387, LumiSection 563 at 03-Nov-2014 09:44:06.032 PST
+03-Nov-2014 09:44:13 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_186_1_K5l.root
+03-Nov-2014 09:44:13 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_187_1_yOS.root
+03-Nov-2014 09:44:13 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_187_1_yOS.root
+03-Nov-2014 09:44:24 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_187_1_yOS.root
+03-Nov-2014 09:44:24 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_188_1_mIC.root
+03-Nov-2014 09:44:24 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_188_1_mIC.root
+Begin processing the 1001st record. Run 199409, Event 1085718225, LumiSection 941 at 03-Nov-2014 09:44:33.664 PST
+03-Nov-2014 09:44:34 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_188_1_mIC.root
+03-Nov-2014 09:44:34 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_189_1_SuX.root
+03-Nov-2014 09:44:34 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_189_1_SuX.root
+03-Nov-2014 09:44:45 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_189_1_SuX.root
+03-Nov-2014 09:44:45 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_18_1_YXk.root
+03-Nov-2014 09:44:45 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_18_1_YXk.root
+03-Nov-2014 09:44:59 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_18_1_YXk.root
+03-Nov-2014 09:44:59 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_190_1_P23.root
+03-Nov-2014 09:44:59 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_190_1_P23.root
+Begin processing the 2001st record. Run 199435, Event 1410285661, LumiSection 1336 at 03-Nov-2014 09:45:12.829 PST
+03-Nov-2014 09:45:18 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_190_1_P23.root
+03-Nov-2014 09:45:18 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_191_1_4Jv.root
+03-Nov-2014 09:45:18 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_191_1_4Jv.root
+03-Nov-2014 09:45:29 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_191_1_4Jv.root
+03-Nov-2014 09:45:29 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_192_1_j2Q.root
+03-Nov-2014 09:45:29 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_192_1_j2Q.root
+Begin processing the 3001st record. Run 199571, Event 17262674, LumiSection 15 at 03-Nov-2014 09:45:39.356 PST
+03-Nov-2014 09:45:39 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_192_1_j2Q.root
+03-Nov-2014 09:45:39 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_193_1_w3Z.root
+03-Nov-2014 09:45:40 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_193_1_w3Z.root
+03-Nov-2014 09:45:50 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_193_1_w3Z.root
+03-Nov-2014 09:45:50 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_194_1_VKJ.root
+03-Nov-2014 09:45:50 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_194_1_VKJ.root
+03-Nov-2014 09:46:03 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_194_1_VKJ.root
+03-Nov-2014 09:46:03 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_195_1_lN8.root
+03-Nov-2014 09:46:03 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_195_1_lN8.root
+Begin processing the 4001st record. Run 199428, Event 317555748, LumiSection 251 at 03-Nov-2014 09:46:28.097 PST
+03-Nov-2014 09:46:31 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_195_1_lN8.root
+03-Nov-2014 09:46:31 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_196_1_1ct.root
+03-Nov-2014 09:46:32 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_196_1_1ct.root
+03-Nov-2014 09:46:43 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_196_1_1ct.root
+03-Nov-2014 09:46:43 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_197_1_9Mj.root
+03-Nov-2014 09:46:43 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_197_1_9Mj.root
+Begin processing the 5001st record. Run 200075, Event 141769489, LumiSection 152 at 03-Nov-2014 09:46:58.228 PST
+03-Nov-2014 09:47:00 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_197_1_9Mj.root
+03-Nov-2014 09:47:00 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_198_1_zbG.root
+03-Nov-2014 09:47:00 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_198_1_zbG.root
+03-Nov-2014 09:47:17 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_198_1_zbG.root
+03-Nov-2014 09:47:17 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_199_1_8UQ.root
+03-Nov-2014 09:47:17 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_199_1_8UQ.root
+Begin processing the 6001st record. Run 199608, Event 777629693, LumiSection 666 at 03-Nov-2014 09:47:45.231 PST
+03-Nov-2014 09:47:45 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_199_1_8UQ.root
+03-Nov-2014 09:47:45 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_19_1_Kur.root
+03-Nov-2014 09:47:46 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_19_1_Kur.root
+03-Nov-2014 09:47:58 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_19_1_Kur.root
+03-Nov-2014 09:47:58 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_1_1_FPm.root
+03-Nov-2014 09:47:59 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_1_1_FPm.root
+03-Nov-2014 09:48:09 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_1_1_FPm.root
+03-Nov-2014 09:48:09 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_200_1_AWq.root
+03-Nov-2014 09:48:09 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_200_1_AWq.root
+Begin processing the 7001st record. Run 199960, Event 217417228, LumiSection 195 at 03-Nov-2014 09:48:19.804 PST
+03-Nov-2014 09:48:20 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_200_1_AWq.root
+03-Nov-2014 09:48:20 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_201_1_jV7.root
+03-Nov-2014 09:48:21 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_201_1_jV7.root
+03-Nov-2014 09:48:32 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_201_1_jV7.root
+03-Nov-2014 09:48:33 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_202_1_rju.root
+03-Nov-2014 09:48:33 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_202_1_rju.root
+03-Nov-2014 09:48:53 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_202_1_rju.root
+03-Nov-2014 09:48:53 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_203_1_MOu.root
+03-Nov-2014 09:48:54 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_203_1_MOu.root
+Begin processing the 8001st record. Run 199435, Event 1508188139, LumiSection 1456 at 03-Nov-2014 09:49:00.349 PST
+03-Nov-2014 09:49:04 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_203_1_MOu.root
+03-Nov-2014 09:49:04 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_204_1_kir.root
+03-Nov-2014 09:49:05 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_204_1_kir.root
+03-Nov-2014 09:49:15 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_204_1_kir.root
+03-Nov-2014 09:49:15 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_205_1_Jdc.root
+03-Nov-2014 09:49:15 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_205_1_Jdc.root
+Begin processing the 9001st record. Run 202060, Event 105788913, LumiSection 127 at 03-Nov-2014 09:49:26.525 PST
+03-Nov-2014 09:49:26 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_205_1_Jdc.root
+03-Nov-2014 09:49:26 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_206_1_Tvb.root
+03-Nov-2014 09:49:26 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_206_1_Tvb.root
+03-Nov-2014 09:49:36 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_206_1_Tvb.root
+03-Nov-2014 09:49:36 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_207_1_YjE.root
+03-Nov-2014 09:49:36 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_207_1_YjE.root
+03-Nov-2014 09:49:48 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_207_1_YjE.root
+03-Nov-2014 09:49:48 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_208_1_O2N.root
+03-Nov-2014 09:49:48 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_208_1_O2N.root
+Begin processing the 10001st record. Run 201817, Event 48596607, LumiSection 47 at 03-Nov-2014 09:50:00.157 PST
+03-Nov-2014 09:50:00 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_208_1_O2N.root
+03-Nov-2014 09:50:00 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_209_1_f1g.root
+03-Nov-2014 09:50:00 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_209_1_f1g.root
+03-Nov-2014 09:50:11 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_209_1_f1g.root
+03-Nov-2014 09:50:11 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_20_1_R9k.root
+03-Nov-2014 09:50:11 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_20_1_R9k.root
+03-Nov-2014 09:50:22 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_20_1_R9k.root
+03-Nov-2014 09:50:22 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_210_1_4el.root
+03-Nov-2014 09:50:22 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_210_1_4el.root
+Begin processing the 11001st record. Run 201817, Event 6365041, LumiSection 7 at 03-Nov-2014 09:50:34.497 PST
+03-Nov-2014 09:50:35 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_210_1_4el.root
+03-Nov-2014 09:50:35 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_211_1_9Uw.root
+03-Nov-2014 09:50:35 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_211_1_9Uw.root
+03-Nov-2014 09:51:02 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_211_1_9Uw.root
+03-Nov-2014 09:51:02 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_212_1_JaJ.root
+03-Nov-2014 09:51:02 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_212_1_JaJ.root
+03-Nov-2014 09:51:11 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_212_1_JaJ.root
+03-Nov-2014 09:51:11 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_213_1_Sgn.root
+03-Nov-2014 09:51:12 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_213_1_Sgn.root
+Begin processing the 12001st record. Run 199436, Event 53965864, LumiSection 74 at 03-Nov-2014 09:51:22.443 PST
+03-Nov-2014 09:51:23 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_213_1_Sgn.root
+03-Nov-2014 09:51:23 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_214_1_FN3.root
+03-Nov-2014 09:51:23 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_214_1_FN3.root
+03-Nov-2014 09:51:32 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_214_1_FN3.root
+03-Nov-2014 09:51:32 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_215_1_wxK.root
+03-Nov-2014 09:51:32 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_215_1_wxK.root
+03-Nov-2014 09:51:44 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_215_1_wxK.root
+03-Nov-2014 09:51:45 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_216_1_vqp.root
+03-Nov-2014 09:51:45 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_216_1_vqp.root
+03-Nov-2014 09:51:54 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_216_1_vqp.root
+03-Nov-2014 09:51:54 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_217_1_Jt6.root
+03-Nov-2014 09:51:54 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_217_1_Jt6.root
+Begin processing the 13001st record. Run 199436, Event 309204840, LumiSection 456 at 03-Nov-2014 09:52:08.901 PST
+03-Nov-2014 09:52:17 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_217_1_Jt6.root
+03-Nov-2014 09:52:17 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_218_1_awt.root
+03-Nov-2014 09:52:17 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_218_1_awt.root
+03-Nov-2014 09:52:26 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_218_1_awt.root
+03-Nov-2014 09:52:26 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_219_2_tqx.root
+03-Nov-2014 09:52:26 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_219_2_tqx.root
+Begin processing the 14001st record. Run 199875, Event 130254179, LumiSection 123 at 03-Nov-2014 09:52:49.226 PST
+03-Nov-2014 09:52:49 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_219_2_tqx.root
+03-Nov-2014 09:52:49 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_21_1_iYz.root
+03-Nov-2014 09:52:49 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_21_1_iYz.root
+03-Nov-2014 09:53:01 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_21_1_iYz.root
+03-Nov-2014 09:53:01 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_220_1_e6I.root
+03-Nov-2014 09:53:01 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_220_1_e6I.root
+03-Nov-2014 09:53:13 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_220_1_e6I.root
+03-Nov-2014 09:53:13 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_221_1_Bft.root
+03-Nov-2014 09:53:13 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_221_1_Bft.root
+Begin processing the 15001st record. Run 199571, Event 456455463, LumiSection 431 at 03-Nov-2014 09:53:23.989 PST
+03-Nov-2014 09:53:25 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_221_1_Bft.root
+03-Nov-2014 09:53:25 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_222_1_a3a.root
+03-Nov-2014 09:53:25 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_222_1_a3a.root
+03-Nov-2014 09:53:38 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_222_1_a3a.root
+03-Nov-2014 09:53:39 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_223_1_uqU.root
+03-Nov-2014 09:53:39 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_223_1_uqU.root
+03-Nov-2014 09:53:49 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_223_1_uqU.root
+03-Nov-2014 09:53:49 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_224_1_CFW.root
+03-Nov-2014 09:53:50 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_224_1_CFW.root
+Begin processing the 16001st record. Run 199572, Event 146858150, LumiSection 169 at 03-Nov-2014 09:54:09.871 PST
+03-Nov-2014 09:54:12 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_224_1_CFW.root
+03-Nov-2014 09:54:12 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_225_1_Qbl.root
+03-Nov-2014 09:54:12 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_225_1_Qbl.root
+03-Nov-2014 09:54:23 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_225_1_Qbl.root
+03-Nov-2014 09:54:23 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_226_1_2pV.root
+03-Nov-2014 09:54:24 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_226_1_2pV.root
+Begin processing the 17001st record. Run 199876, Event 53044261, LumiSection 42 at 03-Nov-2014 09:54:35.428 PST
+03-Nov-2014 09:54:36 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_226_1_2pV.root
+03-Nov-2014 09:54:36 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_227_1_41J.root
+03-Nov-2014 09:54:36 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_227_1_41J.root
+03-Nov-2014 09:54:56 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_227_1_41J.root
+03-Nov-2014 09:54:56 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_228_1_fyx.root
+03-Nov-2014 09:54:56 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_228_1_fyx.root
+03-Nov-2014 09:55:10 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_228_1_fyx.root
+03-Nov-2014 09:55:10 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_229_1_8g2.root
+03-Nov-2014 09:55:10 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_229_1_8g2.root
+Begin processing the 18001st record. Run 199608, Event 261686472, LumiSection 225 at 03-Nov-2014 09:55:25.881 PST
+03-Nov-2014 09:55:29 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_229_1_8g2.root
+03-Nov-2014 09:55:30 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_22_1_N97.root
+03-Nov-2014 09:55:30 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_22_1_N97.root
+03-Nov-2014 09:55:49 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_22_1_N97.root
+03-Nov-2014 09:55:49 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_230_1_hBw.root
+03-Nov-2014 09:55:49 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_230_1_hBw.root
+Begin processing the 19001st record. Run 199876, Event 138079330, LumiSection 113 at 03-Nov-2014 09:56:03.713 PST
+03-Nov-2014 09:56:04 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_230_1_hBw.root
+03-Nov-2014 09:56:04 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_231_1_lk8.root
+03-Nov-2014 09:56:04 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_231_1_lk8.root
+03-Nov-2014 09:56:19 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_231_1_lk8.root
+03-Nov-2014 09:56:19 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_232_1_ipP.root
+03-Nov-2014 09:56:20 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_232_1_ipP.root
+03-Nov-2014 09:56:29 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_232_1_ipP.root
+03-Nov-2014 09:56:29 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_233_1_STe.root
+03-Nov-2014 09:56:29 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_233_1_STe.root
+Begin processing the 20001st record. Run 199608, Event 1474703654, LumiSection 1380 at 03-Nov-2014 09:56:39.191 PST
+03-Nov-2014 09:56:41 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_233_1_STe.root
+03-Nov-2014 09:56:41 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_234_2_sWY.root
+03-Nov-2014 09:56:41 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_234_2_sWY.root
+03-Nov-2014 09:56:53 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_234_2_sWY.root
+03-Nov-2014 09:56:54 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_235_1_s3F.root
+03-Nov-2014 09:56:54 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_235_1_s3F.root
+03-Nov-2014 09:57:04 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_235_1_s3F.root
+03-Nov-2014 09:57:04 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_236_1_X3J.root
+03-Nov-2014 09:57:04 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_236_1_X3J.root
+Begin processing the 21001st record. Run 199608, Event 1769724805, LumiSection 1761 at 03-Nov-2014 09:57:13.439 PST
+03-Nov-2014 09:57:15 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_236_1_X3J.root
+03-Nov-2014 09:57:15 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_237_1_oD3.root
+03-Nov-2014 09:57:16 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_237_1_oD3.root
+03-Nov-2014 09:57:27 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_237_1_oD3.root
+03-Nov-2014 09:57:27 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_238_1_z6g.root
+03-Nov-2014 09:57:27 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_238_1_z6g.root
+Begin processing the 22001st record. Run 200042, Event 122275001, LumiSection 142 at 03-Nov-2014 09:57:44.265 PST
+03-Nov-2014 09:57:44 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_238_1_z6g.root
+03-Nov-2014 09:57:44 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_239_1_UeZ.root
+03-Nov-2014 09:57:44 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_239_1_UeZ.root
+03-Nov-2014 09:58:00 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_239_1_UeZ.root
+03-Nov-2014 09:58:00 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_23_1_03U.root
+03-Nov-2014 09:58:00 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_23_1_03U.root
+03-Nov-2014 09:58:21 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_23_1_03U.root
+03-Nov-2014 09:58:21 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_240_1_8kN.root
+03-Nov-2014 09:58:21 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_240_1_8kN.root
+03-Nov-2014 09:58:29 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_240_1_8kN.root
+03-Nov-2014 09:58:29 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_241_1_i03.root
+03-Nov-2014 09:58:29 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_241_1_i03.root
+Begin processing the 23001st record. Run 199608, Event 1413980889, LumiSection 1309 at 03-Nov-2014 09:58:36.054 PST
+03-Nov-2014 09:58:38 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_241_1_i03.root
+03-Nov-2014 09:58:38 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_242_1_i5N.root
+03-Nov-2014 09:58:38 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_242_1_i5N.root
+03-Nov-2014 09:58:46 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_242_1_i5N.root
+03-Nov-2014 09:58:46 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_243_1_LFX.root
+03-Nov-2014 09:58:46 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_243_1_LFX.root
+03-Nov-2014 09:58:53 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_243_1_LFX.root
+03-Nov-2014 09:58:53 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_244_1_J5C.root
+03-Nov-2014 09:58:53 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_244_1_J5C.root
+Begin processing the 24001st record. Run 199608, Event 1852712751, LumiSection 1880 at 03-Nov-2014 09:59:02.215 PST
+03-Nov-2014 09:59:02 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_244_1_J5C.root
+03-Nov-2014 09:59:02 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_245_2_AMe.root
+03-Nov-2014 09:59:02 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_245_2_AMe.root
+03-Nov-2014 09:59:12 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_245_2_AMe.root
+03-Nov-2014 09:59:12 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_246_1_dHL.root
+03-Nov-2014 09:59:12 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_246_1_dHL.root
+03-Nov-2014 09:59:26 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_246_1_dHL.root
+03-Nov-2014 09:59:26 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_247_2_5HG.root
+03-Nov-2014 09:59:26 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_247_2_5HG.root
+03-Nov-2014 09:59:35 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_247_2_5HG.root
+03-Nov-2014 09:59:35 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_248_2_QKU.root
+03-Nov-2014 09:59:35 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_248_2_QKU.root
+Begin processing the 25001st record. Run 199961, Event 112060149, LumiSection 103 at 03-Nov-2014 09:59:52.151 PST
+%MSG-e RunLumiMerging:  AfterSource 03-Nov-2014 09:59:52 PST PostBeginLumi
+Group::mergeGroup
+Two run/lumi products for the same run/lumi which should be equal are not
+Using the first, ignoring the second
+className = edm::ConditionsInLumiBlock
+moduleLabel = conditionsInEdm
+instance = 
+process = RECO
+
+%MSG
+03-Nov-2014 09:59:54 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_248_2_QKU.root
+03-Nov-2014 09:59:54 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_249_2_7Db.root
+03-Nov-2014 09:59:54 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_249_2_7Db.root
+03-Nov-2014 10:00:03 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_249_2_7Db.root
+03-Nov-2014 10:00:03 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_24_1_ZqL.root
+03-Nov-2014 10:00:03 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_24_1_ZqL.root
+03-Nov-2014 10:00:14 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_24_1_ZqL.root
+03-Nov-2014 10:00:14 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_250_2_WiH.root
+03-Nov-2014 10:00:14 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_250_2_WiH.root
+Begin processing the 26001st record. Run 199703, Event 401084322, LumiSection 472 at 03-Nov-2014 10:00:26.874 PST
+03-Nov-2014 10:00:28 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_250_2_WiH.root
+03-Nov-2014 10:00:28 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_251_2_phA.root
+03-Nov-2014 10:00:28 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_251_2_phA.root
+03-Nov-2014 10:00:55 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_251_2_phA.root
+03-Nov-2014 10:00:55 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_252_1_C1y.root
+03-Nov-2014 10:00:55 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_252_1_C1y.root
+%MSG-e RunLumiMerging:  AfterSource 03-Nov-2014 10:01:04 PST PostBeginLumi
+Group::mergeGroup
+Two run/lumi products for the same run/lumi which should be equal are not
+Using the first, ignoring the second
+className = edm::ConditionsInLumiBlock
+moduleLabel = conditionsInEdm
+instance = 
+process = RECO
+
+%MSG
+%MSG-e RunLumiMerging:  AfterSource 03-Nov-2014 10:01:04 PST PostBeginLumi
+Group::mergeGroup
+Two run/lumi products for the same run/lumi which should be equal are not
+Using the first, ignoring the second
+className = edm::ConditionsInLumiBlock
+moduleLabel = conditionsInEdm
+instance = 
+process = RECO
+
+%MSG
+Begin processing the 27001st record. Run 200600, Event 376919349, LumiSection 249 at 03-Nov-2014 10:01:07.484 PST
+03-Nov-2014 10:01:07 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_252_1_C1y.root
+03-Nov-2014 10:01:07 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_253_2_WCt.root
+03-Nov-2014 10:01:08 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_253_2_WCt.root
+03-Nov-2014 10:01:19 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_253_2_WCt.root
+03-Nov-2014 10:01:19 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_254_2_sLK.root
+03-Nov-2014 10:01:19 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_254_2_sLK.root
+03-Nov-2014 10:01:31 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_254_2_sLK.root
+03-Nov-2014 10:01:31 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_255_1_7LM.root
+03-Nov-2014 10:01:31 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_255_1_7LM.root
+Begin processing the 28001st record. Run 199754, Event 275163775, LumiSection 248 at 03-Nov-2014 10:01:41.069 PST
+03-Nov-2014 10:01:42 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_255_1_7LM.root
+03-Nov-2014 10:01:42 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_256_1_7Xr.root
+03-Nov-2014 10:01:42 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_256_1_7Xr.root
+03-Nov-2014 10:01:51 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_256_1_7Xr.root
+03-Nov-2014 10:01:51 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_257_2_GIY.root
+03-Nov-2014 10:01:51 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_257_2_GIY.root
+03-Nov-2014 10:02:02 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_257_2_GIY.root
+03-Nov-2014 10:02:02 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_258_2_I3Z.root
+03-Nov-2014 10:02:02 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_258_2_I3Z.root
+Begin processing the 29001st record. Run 199754, Event 547901838, LumiSection 532 at 03-Nov-2014 10:02:11.762 PST
+03-Nov-2014 10:02:14 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_258_2_I3Z.root
+03-Nov-2014 10:02:14 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_259_2_aYN.root
+03-Nov-2014 10:02:14 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_259_2_aYN.root
+03-Nov-2014 10:02:24 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_259_2_aYN.root
+03-Nov-2014 10:02:24 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_25_1_J9W.root
+03-Nov-2014 10:02:25 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_25_1_J9W.root
+03-Nov-2014 10:02:38 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_25_1_J9W.root
+03-Nov-2014 10:02:38 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_260_1_Qfm.root
+03-Nov-2014 10:02:38 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_260_1_Qfm.root
+Begin processing the 30001st record. Run 199754, Event 670430636, LumiSection 674 at 03-Nov-2014 10:02:55.601 PST
+03-Nov-2014 10:02:58 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_260_1_Qfm.root
+03-Nov-2014 10:02:58 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_261_1_hg3.root
+03-Nov-2014 10:02:58 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_261_1_hg3.root
+03-Nov-2014 10:03:08 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_261_1_hg3.root
+03-Nov-2014 10:03:08 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_262_1_VTC.root
+03-Nov-2014 10:03:08 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_262_1_VTC.root
+03-Nov-2014 10:03:23 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_262_1_VTC.root
+03-Nov-2014 10:03:23 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_263_2_wLU.root
+03-Nov-2014 10:03:24 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_263_2_wLU.root
+Begin processing the 31001st record. Run 199804, Event 46547550, LumiSection 86 at 03-Nov-2014 10:03:32.689 PST
+03-Nov-2014 10:03:37 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_263_2_wLU.root
+03-Nov-2014 10:03:37 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_264_2_ukw.root
+03-Nov-2014 10:03:38 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_264_2_ukw.root
+03-Nov-2014 10:03:54 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_264_2_ukw.root
+03-Nov-2014 10:03:54 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_265_2_oQg.root
+03-Nov-2014 10:03:54 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_265_2_oQg.root
+Begin processing the 32001st record. Run 199804, Event 545328843, LumiSection 470 at 03-Nov-2014 10:04:04.863 PST
+03-Nov-2014 10:04:08 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_265_2_oQg.root
+03-Nov-2014 10:04:08 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_266_1_DRB.root
+03-Nov-2014 10:04:08 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_266_1_DRB.root
+03-Nov-2014 10:04:27 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_266_1_DRB.root
+03-Nov-2014 10:04:27 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_267_2_lGA.root
+03-Nov-2014 10:04:27 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_267_2_lGA.root
+Begin processing the 33001st record. Run 199812, Event 499325521, LumiSection 418 at 03-Nov-2014 10:04:38.134 PST
+03-Nov-2014 10:04:39 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_267_2_lGA.root
+03-Nov-2014 10:04:39 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_268_1_cRA.root
+03-Nov-2014 10:04:39 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_268_1_cRA.root
+03-Nov-2014 10:05:00 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_268_1_cRA.root
+03-Nov-2014 10:05:00 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_269_2_8pB.root
+03-Nov-2014 10:05:00 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_269_2_8pB.root
+Begin processing the 34001st record. Run 201278, Event 874445028, LumiSection 662 at 03-Nov-2014 10:05:26.409 PST
+03-Nov-2014 10:05:26 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_269_2_8pB.root
+03-Nov-2014 10:05:26 PST  Initiating request to open file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_26_1_9LH.root
+03-Nov-2014 10:05:27 PST  Successfully opened file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_26_1_9LH.root
+03-Nov-2014 10:05:38 PST  Closed file file:/mnt/hadoop/store/user/kmtos/NMSSM_Files/SingleMu_Run2012C-22Jan2013-v1_AOD_skim_v3/data_no_selection_26_1_9LH.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 34397 passed = 200 failed = 34197
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+TrigReport     1    0      34397        109      34288          0 highMT
+TrigReport     1    1      34397         91      34306          0 lowMT
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#        Run     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: highMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0      34397       2079      32318          0 muHadNonIsoTauSelector
+TrigReport     1    0       2079       1473        606          0 NonIsoBVetoFilter
+TrigReport     1    0       1473       1473          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport     1    0       1473       1443         30          0 muonTriggerObjectFilter
+TrigReport     1    0       1443        272       1171          0 OSSFFilterNonIso
+TrigReport     1    0        272        200         72          0 SSSFFilterNonIso
+TrigReport     1    0        200        109         91          0 highMTFilter
+TrigReport     1    0        109        109          0          0 highMTMuHadNonIsoTauAnalyzer
+
+TrigReport ---------- Modules in Path: lowMT ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    1      34397       2079      32318          0 muHadNonIsoTauSelector
+TrigReport     1    1       2079       1473        606          0 NonIsoBVetoFilter
+TrigReport     1    1       1473       1473          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport     1    1       1473       1443         30          0 muonTriggerObjectFilter
+TrigReport     1    1       1443        272       1171          0 OSSFFilterNonIso
+TrigReport     1    1        272        200         72          0 SSSFFilterNonIso
+TrigReport     1    1        200         91        109          0 lowMTFilter
+TrigReport     1    1         91         91          0          0 lowMTMuHadNonIsoTauAnalyzer
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited        Run     Passed     Failed      Error Name
+TrigReport      68794      34397       2079      32318          0 muHadNonIsoTauSelector
+TrigReport       4158       2079       1473        606          0 NonIsoBVetoFilter
+TrigReport       2946       1473       1473          0          0 corrJetDistinctNonIsoTauSelector
+TrigReport       2946       1473       1443         30          0 muonTriggerObjectFilter
+TrigReport       2886       1443        272       1171          0 OSSFFilterNonIso
+TrigReport        544        272        200         72          0 SSSFFilterNonIso
+TrigReport        200        200        109         91          0 highMTFilter
+TrigReport        109        109        109          0          0 highMTMuHadNonIsoTauAnalyzer
+TrigReport        200        200         91        109          0 lowMTFilter
+TrigReport         91         91         91          0          0 lowMTMuHadNonIsoTauAnalyzer
+TrigReport      34397      34397      34397          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport CPU/event = 0.003911 Real/event = 0.010713
+
+TimeReport ---------- Path   Summary ---[sec]----
+TimeReport             per event          per path-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.003528   0.009641   0.003528   0.009641 highMT
+TimeReport   0.000321   0.001013   0.000321   0.001013 lowMT
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event          per path-run 
+
+TimeReport -------End-Path   Summary ---[sec]----
+TimeReport             per event       per endpath-run 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event       per endpath-run 
+
+TimeReport ---------- Modules in Path: highMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.002647   0.007301   0.002647   0.007301 muHadNonIsoTauSelector
+TimeReport   0.000243   0.000626   0.004020   0.010364 NonIsoBVetoFilter
+TimeReport   0.000049   0.000083   0.001153   0.001939 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000142   0.000380   0.003314   0.008870 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000031   0.000035 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000037   0.000015 SSSFFilterNonIso
+TimeReport   0.000019   0.000187   0.003190   0.032216 highMTFilter
+TimeReport   0.000420   0.001057   0.132402   0.333527 highMTMuHadNonIsoTauAnalyzer
+
+TimeReport ---------- Modules in Path: lowMT ---[sec]----
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport   0.000001   0.000001   0.000001   0.000001 muHadNonIsoTauSelector
+TimeReport   0.000000   0.000000   0.000000   0.000001 NonIsoBVetoFilter
+TimeReport   0.000000   0.000000   0.000001   0.000001 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000000   0.000000   0.000001   0.000001 muonTriggerObjectFilter
+TimeReport   0.000000   0.000000   0.000002   0.000001 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000000   0.000001 SSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000060   0.000061 lowMTFilter
+TimeReport   0.000318   0.001010   0.120103   0.381939 lowMTMuHadNonIsoTauAnalyzer
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+TimeReport        CPU       Real        CPU       Real Name
+TimeReport             per event      per module-visit 
+
+TimeReport ---------- Module Summary ---[sec]----
+TimeReport             per event        per module-run      per module-visit 
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport   0.002648   0.007301   0.002648   0.007301   0.001324   0.003651 muHadNonIsoTauSelector
+TimeReport   0.000243   0.000626   0.004020   0.010365   0.002010   0.005182 NonIsoBVetoFilter
+TimeReport   0.000049   0.000083   0.001154   0.001940   0.000577   0.000970 corrJetDistinctNonIsoTauSelector
+TimeReport   0.000142   0.000380   0.003315   0.008871   0.001658   0.004435 muonTriggerObjectFilter
+TimeReport   0.000001   0.000001   0.000033   0.000035   0.000017   0.000018 OSSFFilterNonIso
+TimeReport   0.000000   0.000000   0.000037   0.000015   0.000018   0.000008 SSSFFilterNonIso
+TimeReport   0.000019   0.000187   0.003190   0.032216   0.003190   0.032216 highMTFilter
+TimeReport   0.000420   0.001057   0.132402   0.333527   0.132402   0.333527 highMTMuHadNonIsoTauAnalyzer
+TimeReport   0.000000   0.000000   0.000060   0.000061   0.000060   0.000061 lowMTFilter
+TimeReport   0.000318   0.001010   0.120103   0.381939   0.120103   0.381939 lowMTMuHadNonIsoTauAnalyzer
+TimeReport   0.000048   0.000049   0.000048   0.000049   0.000048   0.000049 TriggerResults
+TimeReport        CPU       Real        CPU       Real        CPU       Real Name
+TimeReport             per event        per module-run      per module-visit 
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 RunLumiMerging       -e AfterSource                            3        3
+    2 fileAction           -s file_close                            94       94
+    3 fileAction           -s file_open                            188      188
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 RunLumiMerging       PostBeginLumi    PostBeginLumi    PostBeginLumi
+    2 fileAction           PostProcessEvent PostProcessEvent PostEndRun
+    3 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Error                   3                   3
+System                282                 282

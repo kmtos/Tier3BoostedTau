@@ -28,10 +28,10 @@ cleanJetsOutputFilePrefix="file:`pwd`/${dir}/"
 
 #TauAnalyzer output file prefix
 #tauAnalyzerOutputFilePrefix="/data1/`whoami`/gg/"
-tauAnalyzerOutputFilePrefix="file:/mnt/hadoop/store/user/kmtos/data1/`whoami`/gg/"
+tauAnalyzerOutputFilePrefix="/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/OUTPUT/gg/"
 
 #EDM output file prefix
-EDMOutputFilePrefix="file:/mnt/hadoop/store/user/kmtos/data1/`whoami`/gg/EDM_files/"
+EDMOutputFilePrefix="/home/kmtos/NMSSM_Analysis/CMSSW_5_3_11/src/BoostedTauAnalysis/TauAnalyzer/test/OUTPUT/gg/EDM/"
 
 ####VECTORS OF QUANTITIES FOR EACH SAMPLE####
 
