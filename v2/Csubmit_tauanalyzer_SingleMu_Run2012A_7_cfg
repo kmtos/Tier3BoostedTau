@@ -1,6 +1,0 @@
-Universe   = vanilla
-Executable = tauanalyzer_SingleMu_Run2012A_7_cfg.sh
-Log        = Csubmit_tauanalyzer_SingleMu_Run2012A_7_cfg.log
-Output     = Csubmit_tauanalyzer_SingleMu_Run2012A_7_cfg.out
-Error      = Csubmit_tauanalyzer_SingleMu_Run2012A_7_cfg.error
-Queue

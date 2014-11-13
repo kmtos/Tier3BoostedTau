@@ -1,6 +1,0 @@
-Universe   = vanilla
-Executable = tauanalyzer_TTJets_cfg.sh
-Log        = Csubmit_tauanalyzer_TTJets_cfg.log
-Output     = Csubmit_tauanalyzer_TTJets_cfg.out
-Error      = Csubmit_tauanalyzer_TTJets_cfg.error
-Queue

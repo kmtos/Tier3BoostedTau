@@ -1,6 +1,0 @@
-Universe   = vanilla
-Executable = tauanalyzer_WZ_cfg.sh
-Log        = Csubmit_tauanalyzer_WZ_cfg.log
-Output     = Csubmit_tauanalyzer_WZ_cfg.out
-Error      = Csubmit_tauanalyzer_WZ_cfg.error
-Queue
